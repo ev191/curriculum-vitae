@@ -1,0 +1,32 @@
+links:
+  - url: http://softwarephilosophy.ninja/
+    coords:
+      - 333.602
+      - 639.512
+      - 152.199
+      - -10.20
+  - url: https://github.com/muroc
+    coords:
+      - 330.398
+      - 625.711
+      - 123.0
+      - -10.402
+  - url: http://stackoverflow.com/cv/maciejchalapuk
+    coords:
+      - 329.801
+      - 612.91
+      - 211.801
+      - -11.398
+  - url: https://github.com/webfront-toolkit/hermes
+    coords:
+      - 129.398
+      - 257.91
+      - 156.402
+      - -7.602
+  - url: https://github.com/muroc-lab/muice
+    coords:
+      - 129.398
+      - 137.91
+      - 130.0
+      - -8.0
+
