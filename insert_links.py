@@ -1,30 +1,17 @@
 #!/usr/bin/env python3
 
 from itertools import count
-from subprocess import call, PIPE, Popen
-import os
 import re
 import sys
-import tempfile
 import yaml
-
-# Magic to support python both 2 and 3
-
-try:
-  range = xrange
-except:
-  pass
 
 # Command line parsing
 
-if len(sys.argv) < 3:
-  print('Usage: %s <config-yaml> <inkscape-gen-pdf>'
-    % sys.argv[0], file=sys.stderr)
+if len(sys.argv) < 2:
+  print('Usage: %s <config-yaml>' % sys.argv[0], file=sys.stderr)
   exit(1)
 
 config_path = sys.argv[1]
-pdf_in_path = sys.argv[2]
-#pdf_out_path = sys.argv[3]
 
 # Load configuration file
 
@@ -36,21 +23,9 @@ with open(config_path, 'r') as stream:
     print(exc)
     exit(1)
 
-# QDFy the input PDF & load the resulting PDF to memory
+# Load PDF from STDIN
 
-fd, qdf_tmppath = tempfile.mkstemp()
-os.close(fd)
-try:
-  if call(['qpdf', '--qdf', pdf_in_path, qdf_tmppath]) != 0:
-    print('error: qpdf failed', file=sys.stderr)
-    exit(1)
-  with open(qdf_tmppath, 'rb') as ps_file:
-    pdf_data = ps_file.read()
-finally:
-  try:
-    os.unlink(qdf_tmppath)
-  except:
-    pass
+pdf_data = sys.stdin.buffer.read()
 
 # Load the rects and last object ID from PDF file
 
@@ -80,7 +55,7 @@ pdf_links = '\n'.join(pdf_link_tpl % (
   l['coords'][0] + l['coords'][2], l['coords'][1] + l['coords'][3]
 ) for c, l in zip(count(last_obj[1]), config['links']))
 
-# Remove the visual rects from PDF, write out the new hyperlink objs
+# Insert new hyperlink objs into pdf data
 
 pdf_data = re.sub(
   (r'\bxref\s+%d\s+%d\b' % last_obj).encode('ascii'),
@@ -96,7 +71,7 @@ pdf_data = re.sub(
   for i in range(len(pdf_links))
 )).encode('ascii'), pdf_data)
 
-# Write new file to stdandard output
+# Write new file to STDOUT
 
 sys.stdout.buffer.write(pdf_data)
 exit(0)
