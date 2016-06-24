@@ -353,7 +353,7 @@
          id="tspan3943"
          sodipodi:role="line"
          x="161.79285"
-         y="454.86142"> * Researched and selected the technology,</tspan><tspan
+         y="454.86142"> * Researched and selected technology,</tspan><tspan
          id="tspan3945"
          sodipodi:role="line"
          x="161.79285"
@@ -822,12 +822,20 @@
          y="761.02844"
          x="147.62895"
          sodipodi:role="line"
-         id="tspan4944">#javascript</tspan><tspan
+         id="tspan5699">#sass</tspan><tspan
          y="772.72845"
          x="147.62895"
          sodipodi:role="line"
-         id="tspan4946">#gulp</tspan><tspan
+         id="tspan4944">#javascript</tspan><tspan
          y="784.42847"
+         x="147.62895"
+         sodipodi:role="line"
+         id="tspan5701">#jasmine</tspan><tspan
+         y="796.12848"
+         x="147.62895"
+         sodipodi:role="line"
+         id="tspan4946">#gulp</tspan><tspan
+         y="807.82849"
          x="147.62895"
          sodipodi:role="line"
          id="tspan4948">#rwd</tspan></text>
@@ -841,7 +849,7 @@
          id="tspan4238"
          sodipodi:role="line"
          x="161.73637"
-         y="725.92847">HTML5 Slideshow Component</tspan><tspan
+         y="725.92847">CSS3 Slideshow Component</tspan><tspan
          sodipodi:role="line"
          x="161.73637"
          y="737.62848"
@@ -859,7 +867,7 @@
          sodipodi:role="line"
          x="161.73637"
          y="772.72845"
-         id="tspan4991"> * Designed the API,</tspan><tspan
+         id="tspan4991"> * Designed the API (CSS and JavaScript),</tspan><tspan
          sodipodi:role="line"
          x="161.73637"
          y="784.42847"
@@ -1058,6 +1066,10 @@
          y="922.69714"
          x="147.65181"
          sodipodi:role="line"
+         id="tspan5703">#junit</tspan><tspan
+         y="934.39716"
+         x="147.65181"
+         sodipodi:role="line"
          id="tspan5152">#maven</tspan></text>
     <text
        xml:space="preserve"
@@ -1087,7 +1099,7 @@
          sodipodi:role="line"
          x="161.75923"
          y="922.69714"
-         id="tspan5195"> * Designed the API,</tspan><tspan
+         id="tspan5195"> * Designed the API (client and plugin),</tspan><tspan
          sodipodi:role="line"
          x="161.75923"
          y="934.39716"
