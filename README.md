@@ -1,2 +1,1 @@
-![Maciej
-Chałapuk](https://raw.githubusercontent.com/muroc/curriculum-vitae/master/cv.svg)
+![Maciej Chałapuk](https://muroc.github.io/curriculum-vitae/cv.svg)
