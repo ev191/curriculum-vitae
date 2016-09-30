@@ -31,9 +31,9 @@
      inkscape:window-height="1053"
      id="namedview56"
      showgrid="false"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="228.53584"
-     inkscape:cy="518.30158"
+     inkscape:zoom="1"
+     inkscape:cx="534.98257"
+     inkscape:cy="-150.11304"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -62,12 +62,28 @@
        snapvisiblegridlinesonly="true" />
     <sodipodi:guide
        orientation="1,0"
-       position="573.99393,4.9497475"
+       position="698.53311,783.20915"
        id="guide6896" />
     <sodipodi:guide
        orientation="0,1"
        position="128.69343,48.790368"
        id="guide6926" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="688.45684,783.47431"
+       id="guide7775" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="678.55734,783.12076"
+       id="guide7777" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="668.48107,786.92146"
+       id="guide7779" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="718.86243,745.99765"
+       id="guide7781" />
   </sodipodi:namedview>
   <defs
      id="defs3">
@@ -252,14 +268,14 @@
      y="1016.1521" />
   <g
      id="g6764"
-     transform="translate(0,50)">
+     transform="translate(0.8838835,50)">
     <text
        transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
        sodipodi:linespacing="125%"
        id="text5463"
        y="772.44299"
        x="-633.8219"
-       style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        xml:space="preserve"><tspan
          id="tspan5467"
          y="772.44299"
@@ -271,7 +287,7 @@
        id="text5463-0"
        y="807.30536"
        x="-598.95953"
-       style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        xml:space="preserve"><tspan
          id="tspan5467-0"
          y="807.30536"
@@ -283,7 +299,7 @@
        id="text5463-0-4"
        y="840.13464"
        x="-566.13025"
-       style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        xml:space="preserve"><tspan
          id="tspan5467-0-0"
          y="840.13464"
@@ -295,7 +311,7 @@
        id="text5463-0-4-8"
        y="873.97803"
        x="-532.28687"
-       style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        xml:space="preserve"><tspan
          id="tspan5467-0-0-1"
          y="873.97803"
@@ -307,7 +323,7 @@
        id="text5463-0-4-8-1"
        y="907.89935"
        x="-498.36554"
-       style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        xml:space="preserve"><tspan
          id="tspan5467-0-0-1-9"
          y="907.89935"
@@ -319,7 +335,7 @@
        id="text5463-0-4-8-1-9"
        y="942.73944"
        x="-463.52545"
-       style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        xml:space="preserve"><tspan
          id="tspan5467-0-0-1-9-3"
          y="942.73944"
@@ -331,7 +347,7 @@
        id="text5463-0-4-8-1-99"
        y="1007.1717"
        x="-399.09317"
-       style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        xml:space="preserve"><tspan
          id="tspan5467-0-0-1-9-1"
          y="1007.1717"
@@ -343,7 +359,7 @@
        id="text5463-0-4-8-1-2"
        y="975.6604"
        x="-430.60449"
-       style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        xml:space="preserve"><tspan
          id="tspan5467-0-0-1-9-6"
          y="975.6604"
@@ -355,7 +371,7 @@
        id="text5463-0-4-8-1-99-4"
        y="1038.7186"
        x="-367.54626"
-       style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        xml:space="preserve"><tspan
          id="tspan5467-0-0-1-9-1-7"
          y="1038.7186"
@@ -367,7 +383,7 @@
        id="text5463-0-4-8-1-99-9"
        y="1071.385"
        x="-334.87991"
-       style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        xml:space="preserve"><tspan
          id="tspan5467-0-0-1-9-1-3"
          y="1071.385"
@@ -379,7 +395,7 @@
        id="text5463-0-4-8-1-99-9-2"
        y="1105.0961"
        x="-301.16879"
-       style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        xml:space="preserve"><tspan
          id="tspan5467-0-0-1-9-1-3-8"
          y="1105.0961"
@@ -1422,19 +1438,6 @@
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0c4674;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">Maciej Chałapuk</tspan></text>
   <flowRoot
      xml:space="preserve"
-     id="flowRoot4045"
-     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f2db08;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-     transform="translate(-16.136485,6.5628148)"><flowRegion
-       id="flowRegion4047"><rect
-         id="rect4049"
-         width="528.16711"
-         height="69.30687"
-         x="205.41452"
-         y="127.46654"
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#f2db08;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" /></flowRegion><flowPara
-       style="font-size:16px;fill:#f2db08;fill-opacity:1"
-       id="flowPara4129">Polyglot Programmer, Technical Writter, HTML/CSS Wizard</flowPara></flowRoot>  <flowRoot
-     xml:space="preserve"
      id="flowRoot4193"
      style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
        id="flowRegion4195"><rect
@@ -1443,78 +1446,11 @@
          height="134"
          x="62"
          y="268.36221" /></flowRegion><flowPara
-       id="flowPara4199"></flowPara></flowRoot>  <image
+       id="flowPara4199" /></flowRoot>  <image
      y="-209.31851"
      x="887.29736"
      id="image4295"
-     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAhIAAAISCAYAAACZPSa/AAAABHNCSVQICAgIfAhkiAAADpFJREFU
-eJzt3FtuI0kWBcFmg/vfMud7AAEV44xR3Io0WwCZL0qO/Divz+fz+QcAIPj39AEAAH8vIQEAZEIC
-AMiEBACQCQkAIBMSAEAmJACATEgAAJmQAAAyIQEAZEICAMiEBACQCQkAIBMSAEAmJACATEgAAJmQ
-AAAyIQEAZEICAMiEBACQCQkAIBMSAEAmJACATEgAAJmQAAAyIQEAZEICAMiEBACQCQkAIBMSAEAm
-JACATEgAAJmQAAAyIQEAZEICAMiEBACQCQkAIBMSAEAmJACA7H36AP7k9XqdPoSRPp/P1s9bvc6n
-vnfV9Oty6vNWTT+P6Z+3avr3rpp+nW+x+77t5o0EAJAJCQAgExIAQCYkAIBMSAAAmZAAADIhAQBk
-QgIAyIQEAJCNX7ZcNX35a9XuZbfpn7fqlvu7+zymLyROX6zc7ZYFx1uu83TTn4NV3kgAAJmQAAAy
-IQEAZEICAMiEBACQCQkAIBMSAEAmJACATEgAANk1y5arnrbMuPt7Ty3enfre6cuRp0y/H6ssv97N
-/fgd3kgAAJmQAAAyIQEAZEICAMiEBACQCQkAIBMSAEAmJACATEgAANnjli2fZvcC4fTFyqctLu6+
-b7csPa46dV1WTX/uT30vs3gjAQBkQgIAyIQEAJAJCQAgExIAQCYkAIBMSAAAmZAAADIhAQBkli0v
-97RFuVNLhacWCKcvR67ynP7saUuj/J28kQAAMiEBAGRCAgDIhAQAkAkJACATEgBAJiQAgExIAACZ
-kAAAssctWz5tQe/UkuLq503/3lucOt9TS4rTFxxPHZ/nnv8HbyQAgExIAACZkAAAMiEBAGRCAgDI
-hAQAkAkJACATEgBAJiQAgOyaZcvpS3b8bPry5u7Pm276+U6/vz7vu89b5e/9LN5IAACZkAAAMiEB
-AGRCAgDIhAQAkAkJACATEgBAJiQAgExIAADZ+GXLWxYDT5m+ULf7+E6Zfnyrpv/eTj0v0+/vqcXK
-3aY/f/zMGwkAIBMSAEAmJACATEgAAJmQAAAyIQEAZEICAMiEBACQCQkAIHt9hk+JTV+UW2VR7ju3
-PAerpj8v0516nnffj1PPwe7rd2p585bPm84bCQAgExIAQCYkAIBMSAAAmZAAADIhAQBkQgIAyIQE
-AJAJCQAgG79suerUktjTFsymL+id8rTngJ/d8vuwsPudW56DVd5IAACZkAAAMiEBAGRCAgDIhAQA
-kAkJACATEgBAJiQAgExIAADZNcuWq6YvEFqU+870hdNVq8e3+3xPfd5u05/nW57TVbc8f6fOYzpv
-JACATEgAAJmQAAAyIQEAZEICAMiEBACQCQkAIBMSAEAmJACA7H36AP5k+jLZ7u+9Zclu1fT7u/t+
-nPq8W8731PM8falw+iLkqulLj9Ofg1O8kQAAMiEBAGRCAgDIhAQAkAkJACATEgBAJiQAgExIAACZ
-kAAAstfnkgmuU4tjtyzA3bLY9rTzWDV9AXO3U0uP0/++ON/f+d5V039Hq7yRAAAyIQEAZEICAMiE
-BACQCQkAIBMSAEAmJACATEgAAJmQAACy8cuWtyztnTL9+t1yfKtuOY9V03+XFjB/dmoR8mnfu2r6
-78gbCQAgExIAQCYkAIBMSAAAmZAAADIhAQBkQgIAyIQEAJAJCQAgG79sudvTFtGms/D3nVPX75YF
-wlvu7/S/L9OXQVfdsoS6mzcSAEAmJACATEgAAJmQAAAyIQEAZEICAMiEBACQCQkAIBMSAED2Pn0A
-f7J7+Wv6EuAtpi8BnnLLIt8tTi1vrjp133Zfl+mft9v049vNGwkAIBMSAEAmJACATEgAAJmQAAAy
-IQEAZEICAMiEBACQCQkAIBu/bLlq+kLdqumLkLuX9qYv993yHExfPpz+vOx2y3nsvm+7v3fVLX/X
-TvFGAgDIhAQAkAkJACATEgBAJiQAgExIAACZkAAAMiEBAGRCAgDIrlm23L04Nn1hctX08+Vn05co
-V92yBDh9mfGU6fdtt93PwS3XzxsJACATEgBAJiQAgExIAACZkAAAMiEBAGRCAgDIhAQAkAkJACAb
-v2x5ahnv1BLg9KWzW+7H9KW4U8/BqYXY6QuYp5ZGp3/vqaXHVavnMf06T+eNBACQCQkAIBMSAEAm
-JACATEgAAJmQAAAyIQEAZEICAMiEBACQjV+2XHXLQtj0Rb7d33vLwt/0hclbnoPdpl+/6aYv3d6y
-rDqdNxIAQCYkAIBMSAAAmZAAADIhAQBkQgIAyIQEAJAJCQAgExIAQPb6DJ/gmr4kdmqR75SnXedT
-i5r8junLm7s97XynG/7vd5k3EgBAJiQAgExIAACZkAAAMiEBAGRCAgDIhAQAkAkJACATEgBA9j59
-AFPtXnZ72iLkqt3Lpac+b7dT57vb047vls/b7Wn392m8kQAAMiEBAGRCAgDIhAQAkAkJACATEgBA
-JiQAgExIAACZkAAAsmuWLacv6K06dR6nrsup87B497NTz9/067f7+Cxgfve9p56/6dfvFG8kAIBM
-SAAAmZAAADIhAQBkQgIAyIQEAJAJCQAgExIAQCYkAIBs/LLl7iWx6QtmpxYmpy+xnVr42236suot
-x3fqd3lqAfMW03+X0xdOT/FGAgDIhAQAkAkJACATEgBAJiQAgExIAACZkAAAMiEBAGRCAgDIXp/h
-k1m3LNQ9zdOus0XS3zH9Ok9fYJ2+7Dvd9Pt7ijcSAEAmJACATEgAAJmQAAAyIQEAZEICAMiEBACQ
-CQkAIBMSAED2Pn0Au+xeCJu+OHbLQt3067zqaQt/0526H9MXMKcvMz5tEfKW8/VGAgDIhAQAkAkJ
-ACATEgBAJiQAgExIAACZkAAAMiEBAGRCAgDIXp/pk1mb7V68O7XsdsotS5mnngOLpN+Z/vtd9bTf
-+fS/kxY6v+ONBACQCQkAIBMSAEAmJACATEgAAJmQAAAyIQEAZEICAMiEBACQvU8fAP9t+tLe9EXI
-3d873fTn5ZTp12X682eB9We33N/dvJEAADIhAQBkQgIAyIQEAJAJCQAgExIAQCYkAIBMSAAAmZAA
-ALJrli2nLy5agPuOBczv3LJEOX2Bdfqi5qrpf69W3XJ80/8OeSMBAGRCAgDIhAQAkAkJACATEgBA
-JiQAgExIAACZkAAAMiEBAGSvz/DJrFuWCqcvmJ06vqct8p1aTF01fQlwt1PXb/py7tP+Du12y3ms
-8kYCAMiEBACQCQkAIBMSAEAmJACATEgAAJmQAAAyIQEAZEICAMjepw9gl1uW4qYveZ5abJu+3HfL
-Quctz8uq6cc3/blfNf13eerv1S28kQAAMiEBAGRCAgDIhAQAkAkJACATEgBAJiQAgExIAACZkAAA
-smuWLVdNX4qbvmi4+3tPOXUe05cod5t+fKuetsy4yrLv73zvdN5IAACZkAAAMiEBAGRCAgDIhAQA
-kAkJACATEgBAJiQAgExIAADZNcuWtywV8p3pi3K3LAFOP49Vp47vaQuJtyyDTj++U7yRAAAyIQEA
-ZEICAMiEBACQCQkAIBMSAEAmJACATEgAAJmQAACy8cuW05f2pi+OrTq13Lfb05YeTy3t7f686edx
-6ntv+Tt0y1Lr7u+9hTcSAEAmJACATEgAAJmQAAAyIQEAZEICAMiEBACQCQkAIBMSAED2+jxtgmuz
-U4uGuz1tAW76fbvleVl1y3O1avrzcur+um9/J28kAIBMSAAAmZAAADIhAQBkQgIAyIQEAJAJCQAg
-ExIAQCYkAIDsffoAdjm18Lfb9KXHVdOX9qabfl1uWdTc7WmLqaufN/18d5v+nO7mjQQAkAkJACAT
-EgBAJiQAgExIAACZkAAAMiEBAGRCAgDIhAQAkI1ftjy18HdquW/6QuctS4q7z+OW6zLdLUuPu02/
-Lqfcct+mL2V6IwEAZEICAMiEBACQCQkAIBMSAEAmJACATEgAAJmQAAAyIQEAZK/P9MksvjJ9EXLV
-7gW4py0BPu2+3bJYecrT/m6setpzsMobCQAgExIAQCYkAIBMSAAAmZAAADIhAQBkQgIAyIQEAJAJ
-CQAge58+gD85tQQ43fSluOnLgrs/75bn9NT9mL5cOv34drvlOk93y/l6IwEAZEICAMiEBACQCQkA
-IBMSAEAmJACATEgAAJmQAAAyIQEAZOOXLVdNX/5atXspbvrC5C1OXedTz8tuT3uunnZ/V01//p52
-P1Z5IwEAZEICAMiEBACQCQkAIBMSAEAmJACATEgAAJmQAAAyIQEAZNcsW67avUy26tSC2anznW76
-kufu+zb9OZi+GLh6fNOXaU89B9Ofv1WnFjCn80YCAMiEBACQCQkAIBMSAEAmJACATEgAAJmQAAAy
-IQEAZEICAMget2zJd6Yv9+3+3lW7lzJPfd4p0xdET13nUwus0xeAb1l+nb6wu8obCQAgExIAQCYk
-AIBMSAAAmZAAADIhAQBkQgIAyIQEAJAJCQAgs2zJ/2T38tz0pcxTi3LTFyunLylOv2+7Tf8drZq+
-5Dl9YfIUbyQAgExIAACZkAAAMiEBAGRCAgDIhAQAkAkJACATEgBAJiQAgOxxy5aWyf5Ou+/bqc+7
-ZUHv1HlM/7xbrssp0xdTb/n97uaNBACQCQkAIBMSAEAmJACATEgAAJmQAAAyIQEAZEICAMiEBACQ
-XbNsuXvB7Gl2LzPudsv9fdoC5qrpz9/q8Z26v9N/H9Of+1sWTk/xRgIAyIQEAJAJCQAgExIAQCYk
-AIBMSAAAmZAAADIhAQBkQgIAyF6fW6a1AIBf540EAJAJCQAgExIAQCYkAIBMSAAAmZAAADIhAQBk
-QgIAyIQEAJAJCQAgExIAQCYkAIBMSAAAmZAAADIhAQBkQgIAyIQEAJAJCQAgExIAQCYkAIBMSAAA
-mZAAADIhAQBkQgIAyIQEAJAJCQAgExIAQCYkAIBMSAAAmZAAADIhAQBkQgIAyIQEAJAJCQAgExIA
-QCYkAIBMSAAAmZAAADIhAQBk/wEw28Q27j2TfQAAAABJRU5ErkJggg==
-"
+     xlink:href="data:image/png;base64,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 "
      height="79.814369"
      width="79.814369" />
   <g
@@ -1642,15 +1578,15 @@ QCYkAIBMSAAAmZAAADIhAQBk/wEw28Q27j2TfQAAAABJRU5ErkJggg==
            style="font-size:9px;text-align:start;text-anchor:start;fill:#0c4674;fill-opacity:1"
            y="244.3622"
            x="206.5"
-           height="36.278152"
-           width="255.79395"
+           height="39.106579"
+           width="175.18378"
            id="rect4152-2-2" /></flowRegion><flowPara
          id="flowPara4310-1-5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0c4674;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">softwarephilosophy.ninja</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0c4674;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">SoftwarePhilosophy.Ninja</flowPara><flowPara
          id="flowPara4558-1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0c4674;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">github.com/muroc</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0c4674;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">Github.Com/Muroc</flowPara><flowPara
          id="flowPara4312-6-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0c4674;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">stackoverflow.com/cv/maciejchalapuk</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0c4674;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">StackOverflow.Com/CV/MaciejChalapuk</flowPara><flowPara
          id="flowPara4156-2-0"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0c4674;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" /><flowPara
          id="flowPara4158-0-0"
@@ -1683,11 +1619,6 @@ QCYkAIBMSAAAmZAAADIhAQBk/wEw28Q27j2TfQAAAABJRU5ErkJggg==
          style="fill:none;stroke:#ffffff;stroke-width:1.02025008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     </g>
   </g>
-  <path
-     style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 774.82399,315.38405 565.00001,0"
-     id="path4041-1"
-     inkscape:connector-curvature="0" />
   <rect
      style="fill:#ebebeb;fill-opacity:1;stroke:none"
      id="rect4043-4"
@@ -1696,643 +1627,708 @@ QCYkAIBMSAAAmZAAADIhAQBk/wEw28Q27j2TfQAAAABJRU5ErkJggg==
      x="0.0039052963"
      y="288.03015" />
   <g
-     id="g7108">
+     id="g7837">
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.95999995000000005;fill:#9ac197;fill-opacity:1;stroke:none"
+       id="path3988-1-0-6-8-0-3-6-87-85-3-3-8"
+       sodipodi:cx="66.72242"
+       sodipodi:cy="377.05365"
+       sodipodi:rx="5.2817426"
+       sodipodi:ry="5.5871711"
+       d="m 72.004162,377.05365 a 5.2817426,5.5871711 0 1 1 -10.563485,0 5.2817426,5.5871711 0 1 1 10.563485,0 z"
+       transform="matrix(0,-0.90349256,0.84086096,0,351.43138,366.51516)" />
+    <path
+       transform="matrix(0,-0.28623446,0.26639219,0,578.11319,325.46279)"
+       d="m 72.004162,377.05365 a 5.2817426,5.5871711 0 1 1 -10.563485,0 5.2817426,5.5871711 0 1 1 10.563485,0 z"
+       sodipodi:ry="5.5871711"
+       sodipodi:rx="5.2817426"
+       sodipodi:cy="377.05365"
+       sodipodi:cx="66.72242"
+       id="path3988-1-0-6-8-0-3"
+       style="opacity:0.95999995000000005;fill:#9ac197;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       transform="matrix(0,-0.28623446,0.26639219,0,587.88011,325.46279)"
+       d="m 72.004162,377.05365 a 5.2817426,5.5871711 0 1 1 -10.563485,0 5.2817426,5.5871711 0 1 1 10.563485,0 z"
+       sodipodi:ry="5.5871711"
+       sodipodi:rx="5.2817426"
+       sodipodi:cy="377.05365"
+       sodipodi:cx="66.72242"
+       id="path3988-1-0-6-8-0-3-3"
+       style="opacity:0.95999995000000005;fill:#9ac197;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       transform="matrix(0,-0.28623446,0.26639219,0,598.04477,325.46279)"
+       d="m 72.004162,377.05365 a 5.2817426,5.5871711 0 1 1 -10.563485,0 5.2817426,5.5871711 0 1 1 10.563485,0 z"
+       sodipodi:ry="5.5871711"
+       sodipodi:rx="5.2817426"
+       sodipodi:cy="377.05365"
+       sodipodi:cx="66.72242"
+       id="path3988-1-0-6-8-0-3-3-5"
+       style="opacity:0.95999995000000005;fill:#9ac197;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       transform="matrix(0,-0.28623446,0.26639219,0,607.90007,325.46279)"
+       d="m 72.004162,377.05365 a 5.2817426,5.5871711 0 1 1 -10.563485,0 5.2817426,5.5871711 0 1 1 10.563485,0 z"
+       sodipodi:ry="5.5871711"
+       sodipodi:rx="5.2817426"
+       sodipodi:cy="377.05365"
+       sodipodi:cx="66.72242"
+       id="path3988-1-0-6-8-0-3-3-5-7"
+       style="opacity:0.95999995000000005;fill:#9ac197;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+  </g>
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot7844"
+     style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"><flowRegion
+       id="flowRegion7846"><rect
+         id="rect7848"
+         width="108.89445"
+         height="13.435036"
+         x="552.60394"
+         y="300.00058"
+         style="fill:#212121;fill-opacity:1" /></flowRegion><flowPara
+       id="flowPara7850">Test Driven Development</flowPara></flowRoot>  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#daf737;fill-opacity:1;stroke:none;font-family:aakar;-inkscape-font-specification:aakar Medium"
+     x="189"
+     y="147.36218"
+     id="text3638"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3640"
+       x="189"
+       y="147.36218"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#daf737;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">Polyglot Programmer, Technical Writter</tspan></text>
+  <g
+     id="g4721"
+     transform="translate(0,-20)">
     <g
-       transform="translate(-43.514371,-64.01671)"
-       id="g6242-5">
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot5801-5-8-9"
-         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-         transform="translate(-168.67219,10.058566)"><flowRegion
-           id="flowRegion5803-9-0-5"><rect
-             id="rect5805-8-5-8"
-             width="116.58143"
-             height="12.500712"
-             x="616.26135"
-             y="936.86218"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" /></flowRegion><flowPara
-           id="flowPara5809-7-2-3">Lead JavaScript Dev </flowPara></flowRoot>      <flowRoot
-         transform="translate(-54.39917,9.999351)"
-         style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;font-stretch:normal;font-variant:normal"
-         id="flowRoot5801-5-8-0-3"
-         xml:space="preserve"><flowRegion
-           id="flowRegion5803-9-0-2-19"><rect
-             y="936.86218"
-             x="616.26135"
-             height="12.500712"
-             width="116.58143"
-             id="rect5805-8-5-2-9"
-             style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /></flowRegion><flowPara
-           id="flowPara5809-7-2-9-6">@ <flowSpan
-   id="flowSpan7430"
-   style="fill:#0c4674;fill-opacity:1;-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Kontomierz.PL</flowSpan></flowPara></flowRoot>      <g
-         id="g6237-17">
-        <path
-           inkscape:connector-curvature="0"
-           id="path4041-3-8-1"
-           d="m 542.80262,953.42431 6.42262,0"
-           style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        <path
-           transform="matrix(0,-0.90349256,0.84086096,0,221.27692,1013.6788)"
-           d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
-           sodipodi:ry="5.5871711"
-           sodipodi:rx="5.2817426"
-           sodipodi:cy="377.05365"
-           sodipodi:cx="66.72242"
-           id="path3988-1-0-6-8-0-3-6-87-4"
-           style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
-           sodipodi:type="arc" />
-        <path
-           transform="matrix(0,-0.90349256,0.84086096,0,236.43468,1013.6454)"
-           d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
-           sodipodi:ry="5.5871711"
-           sodipodi:rx="5.2817426"
-           sodipodi:cy="377.05365"
-           sodipodi:cx="66.72242"
-           id="path3988-1-0-6-8-0-3-6-87-8-0"
-           style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
-           sodipodi:type="arc" />
-      </g>
+       transform="translate(-436.63937,-105.01671)"
+       id="g6237-1">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 542.80262,953.42431 16.29437,0"
+         id="path4041-3-8-5"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="path3988-1-0-6-8-0-3-6-87-35"
+         sodipodi:cx="66.72242"
+         sodipodi:cy="377.05365"
+         sodipodi:rx="5.2817426"
+         sodipodi:ry="5.5871711"
+         d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
+         transform="matrix(0,-0.90349256,0.84086096,0,221.27692,1013.6788)" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="path3988-1-0-6-8-0-3-6-87-8-7"
+         sodipodi:cx="66.72242"
+         sodipodi:cy="377.05365"
+         sodipodi:rx="5.2817426"
+         sodipodi:ry="5.5871711"
+         d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
+         transform="matrix(0,-0.90349256,0.84086096,0,246.43468,1013.6454)" />
     </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4437"
+       y="851.16571"
+       x="41.002483"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       xml:space="preserve"><tspan
+         y="851.16571"
+         x="41.002483"
+         id="tspan4439"
+         sodipodi:role="line">Linux Admin</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4437-3"
+       y="851.1911"
+       x="137.20494"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       xml:space="preserve"><tspan
+         y="851.1911"
+         x="137.20494"
+         id="tspan4439-6"
+         sodipodi:role="line">@ <tspan
+   id="tspan4462"
+   style="fill:#0c4674;fill-opacity:1">NailDesign.PL</tspan></tspan></text>
+  </g>
+  <g
+     id="g4640">
     <g
-       id="g6242-3"
-       transform="translate(-436.63937,-105.01671)">
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot5801-5-8-4"
-         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-         transform="translate(-138.67219,10.058566)"><flowRegion
-           id="flowRegion5803-9-0-1"><rect
-             id="rect5805-8-5-25"
-             width="116.58143"
-             height="12.500712"
-             x="616.26135"
-             y="936.86218"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" /></flowRegion><flowPara
-           id="flowPara5809-7-2-7">Linux Admin </flowPara></flowRoot>      <flowRoot
-         transform="translate(-43.14917,9.999351)"
-         style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;font-stretch:normal;font-variant:normal"
-         id="flowRoot5801-5-8-0-2"
-         xml:space="preserve"><flowRegion
-           id="flowRegion5803-9-0-2-6"><rect
-             y="936.86218"
-             x="616.26135"
-             height="12.500712"
-             width="116.58143"
-             id="rect5805-8-5-2-01"
-             style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /></flowRegion><flowPara
-           id="flowPara5809-7-2-9-4">@ <flowSpan
-   id="flowSpan7440"
-   style="fill:#0c4674;fill-opacity:1;-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">NailDesign.PL</flowSpan></flowPara></flowRoot>      <g
-         id="g6237-1">
-        <path
-           inkscape:connector-curvature="0"
-           id="path4041-3-8-5"
-           d="m 542.80262,953.42431 16.29437,0"
-           style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        <path
-           transform="matrix(0,-0.90349256,0.84086096,0,221.27692,1013.6788)"
-           d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
-           sodipodi:ry="5.5871711"
-           sodipodi:rx="5.2817426"
-           sodipodi:cy="377.05365"
-           sodipodi:cx="66.72242"
-           id="path3988-1-0-6-8-0-3-6-87-35"
-           style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
-           sodipodi:type="arc" />
-        <path
-           transform="matrix(0,-0.90349256,0.84086096,0,246.43468,1013.6454)"
-           d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
-           sodipodi:ry="5.5871711"
-           sodipodi:rx="5.2817426"
-           sodipodi:cy="377.05365"
-           sodipodi:cx="66.72242"
-           id="path3988-1-0-6-8-0-3-6-87-8-7"
-           style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
-           sodipodi:type="arc" />
-      </g>
+       transform="translate(-410.42153,34.73329)"
+       id="g6237-8">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 542.80262,953.42431 62.25544,0"
+         id="path4041-3-8-2"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="path3988-1-0-6-8-0-3-6-87-85"
+         sodipodi:cx="66.72242"
+         sodipodi:cy="377.05365"
+         sodipodi:rx="5.2817426"
+         sodipodi:ry="5.5871711"
+         d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
+         transform="matrix(0,-0.90349256,0.84086096,0,221.27692,1013.6788)" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="path3988-1-0-6-8-0-3-6-87-8-9"
+         sodipodi:cx="66.72242"
+         sodipodi:cy="377.05365"
+         sodipodi:rx="5.2817426"
+         sodipodi:ry="5.5871711"
+         d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
+         transform="matrix(0,-0.90349256,0.84086096,0,292.43468,1013.6454)" />
     </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4437-3-7"
+       y="990.90887"
+       x="207.75476"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       xml:space="preserve"><tspan
+         y="990.90887"
+         x="207.75476"
+         id="tspan4439-6-5"
+         sodipodi:role="line">@ <tspan
+   id="tspan4462-3"
+   style="fill:#0c4674;fill-opacity:1">AutoGuard.PL</tspan></tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4437-5"
+       y="990.57245"
+       x="43.531532"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       xml:space="preserve"><tspan
+         y="990.57245"
+         x="43.531532"
+         id="tspan4439-62"
+         sodipodi:role="line">Software Engineer</tspan></text>
+  </g>
+  <g
+     id="g4651">
     <g
-       transform="translate(-6,36)"
-       id="g6878">
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot5801-5-8-06-05-5"
-         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-         transform="translate(-435.42655,-151.45814)"><flowRegion
-           id="flowRegion5803-9-0-4-1-8"><rect
-             id="rect5805-8-5-7-8-0"
-             width="116.58143"
-             height="12.500712"
-             x="616.26135"
-             y="936.86218"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" /></flowRegion><flowPara
-           id="flowPara5809-7-2-0-9-1">Computer Science (BsC)</flowPara></flowRoot>      <flowRoot
-         transform="translate(-141.65353,-151.51736)"
-         style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;font-stretch:normal;font-variant:normal"
-         id="flowRoot5801-5-8-0-29-1-6"
-         xml:space="preserve"><flowRegion
-           id="flowRegion5803-9-0-2-1-8-9"><rect
-             y="936.86218"
-             x="616.26135"
-             height="12.500712"
-             width="116.58143"
-             id="rect5805-8-5-2-6-1-7"
-             style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /></flowRegion><flowPara
-           id="flowPara6454-0-0">@ <flowSpan
-   id="flowSpan7424"
-   style="fill:#0c4674;fill-opacity:1;-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">PJA.Edu.PL</flowSpan></flowPara></flowRoot>      <g
-         id="g6873">
-        <path
-           inkscape:connector-curvature="0"
-           id="path4041-3-8-2-7-1"
-           d="m 293.54826,791.9076 157.81388,0"
-           style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        <path
-           transform="matrix(0,-0.90349256,0.84086096,0,-27.97744,852.16209)"
-           d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
-           sodipodi:ry="5.5871711"
-           sodipodi:rx="5.2817426"
-           sodipodi:cy="377.05365"
-           sodipodi:cx="66.72242"
-           id="path3988-1-0-6-8-0-3-6-87-85-3-3"
-           style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
-           sodipodi:type="arc" />
-        <path
-           transform="matrix(0,-1.4182889,1.3199707,0,-37.553325,886.43579)"
-           d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
-           sodipodi:ry="5.5871711"
-           sodipodi:rx="5.2817426"
-           sodipodi:cy="377.05365"
-           sodipodi:cx="66.72242"
-           id="path3988-1-0-6-87-7-5-1-2-9"
-           style="opacity:0.95999995;fill:none;stroke:#ffffff;stroke-width:2.20558286;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           sodipodi:type="arc" />
-      </g>
+       transform="translate(-339.01242,14.879739)"
+       id="g6237-8-5">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 542.80262,953.42431 142.20988,0"
+         id="path4041-3-8-2-4"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="path3988-1-0-6-8-0-3-6-87-85-6"
+         sodipodi:cx="66.72242"
+         sodipodi:cy="377.05365"
+         sodipodi:rx="5.2817426"
+         sodipodi:ry="5.5871711"
+         d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
+         transform="matrix(0,-0.90349256,0.84086096,0,221.27692,1013.6788)" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="path3988-1-0-6-8-0-3-6-87-8-9-8"
+         sodipodi:cx="66.72242"
+         sodipodi:cy="377.05365"
+         sodipodi:rx="5.2817426"
+         sodipodi:ry="5.5871711"
+         d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
+         transform="matrix(0,-0.90349256,0.84086096,0,372.43468,1013.6454)" />
     </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4437-3-7-9"
+       y="971.12231"
+       x="358.82553"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       xml:space="preserve"><tspan
+         y="971.12231"
+         x="358.82553"
+         id="tspan4439-6-5-1"
+         sodipodi:role="line">@ <tspan
+   id="tspan4462-3-2"
+   style="fill:#0c4674;fill-opacity:1">AutoGuard.PL</tspan></tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4437-5-7"
+       y="970.37073"
+       x="87.028366"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       xml:space="preserve"><tspan
+         y="970.37073"
+         x="87.028366"
+         id="tspan4439-62-0"
+         sodipodi:role="line">Senior Software Engineer</tspan></text>
+  </g>
+  <g
+     id="g4690"
+     transform="translate(0,-100)">
     <g
-       id="g6242-7-1"
-       transform="translate(-410.59636,-5.20421)">
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot5801-5-8-06-05"
-         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-         transform="translate(-144.67219,10.058566)"><flowRegion
-           id="flowRegion5803-9-0-4-1"><rect
-             id="rect5805-8-5-7-8"
-             width="116.58143"
-             height="12.500712"
-             x="616.26135"
-             y="936.86218"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" /></flowRegion><flowPara
-           id="flowPara5809-7-2-0-9">Front-End Dev</flowPara></flowRoot>      <flowRoot
-         transform="translate(153.60083,9.999351)"
-         style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;font-stretch:normal;font-variant:normal"
-         id="flowRoot5801-5-8-0-29-1"
-         xml:space="preserve"><flowRegion
-           id="flowRegion5803-9-0-2-1-8"><rect
-             y="936.86218"
-             x="616.26135"
-             height="12.500712"
-             width="116.58143"
-             id="rect5805-8-5-2-6-1"
-             style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /></flowRegion><flowPara
-           id="flowPara6454-0">@ Freelance Jobs</flowPara></flowRoot>      <g
-         id="g6237-8-9">
-        <path
-           inkscape:connector-curvature="0"
-           id="path4041-3-8-2-7"
-           d="m 542.80262,953.42431 214.24306,0"
-           style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        <path
-           transform="matrix(0,-0.90349256,0.84086096,0,221.27692,1013.6788)"
-           d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
-           sodipodi:ry="5.5871711"
-           sodipodi:rx="5.2817426"
-           sodipodi:cy="377.05365"
-           sodipodi:cx="66.72242"
-           id="path3988-1-0-6-8-0-3-6-87-85-3"
-           style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
-           sodipodi:type="arc" />
-        <path
-           transform="matrix(0,-0.90349256,0.84086096,0,444.43468,1013.6454)"
-           d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
-           sodipodi:ry="5.5871711"
-           sodipodi:rx="5.2817426"
-           sodipodi:cy="377.05365"
-           sodipodi:cx="66.72242"
-           id="path3988-1-0-6-8-0-3-6-87-8-9-9"
-           style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
-           sodipodi:type="arc" />
-      </g>
+       transform="translate(-410.59636,-5.20421)"
+       id="g6237-8-9">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 542.80262,953.42431 214.24306,0"
+         id="path4041-3-8-2-7"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="path3988-1-0-6-8-0-3-6-87-85-3"
+         sodipodi:cx="66.72242"
+         sodipodi:cy="377.05365"
+         sodipodi:rx="5.2817426"
+         sodipodi:ry="5.5871711"
+         d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
+         transform="matrix(0,-0.90349256,0.84086096,0,221.27692,1013.6788)" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="path3988-1-0-6-8-0-3-6-87-8-9-9"
+         sodipodi:cx="66.72242"
+         sodipodi:cy="377.05365"
+         sodipodi:rx="5.2817426"
+         sodipodi:ry="5.5871711"
+         d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
+         transform="matrix(0,-0.90349256,0.84086096,0,444.43468,1013.6454)" />
     </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4437-5-9"
+       y="950.47089"
+       x="61.020699"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       xml:space="preserve"><tspan
+         y="950.47089"
+         x="61.020699"
+         id="tspan4439-62-3"
+         sodipodi:role="line">Front-End Dev</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4437-3-7-9-6"
+       y="950.61609"
+       x="359.23584"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       xml:space="preserve"><tspan
+         y="950.61609"
+         x="359.23584"
+         id="tspan4439-6-5-1-0"
+         sodipodi:role="line">@ Freelance Jobs<tspan
+   id="tspan4462-3-2-6"
+   style="fill:#0c4674;fill-opacity:1" /></tspan></text>
+  </g>
+  <g
+     id="g4805">
     <g
-       id="g6242-7"
-       transform="translate(-410.42153,34.73329)">
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot5801-5-8-06"
-         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-         transform="translate(-161.67219,10.058566)"><flowRegion
-           id="flowRegion5803-9-0-4"><rect
-             id="rect5805-8-5-7"
-             width="116.58143"
-             height="12.500712"
-             x="616.26135"
-             y="936.86218"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" /></flowRegion><flowPara
-           id="flowPara5809-7-2-0">Software Engineer </flowPara></flowRoot>      <flowRoot
-         transform="translate(1.60083,9.999351)"
-         style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         id="flowRoot5801-5-8-0-29"
-         xml:space="preserve"><flowRegion
-           id="flowRegion5803-9-0-2-1"><rect
-             y="936.86218"
-             x="616.26135"
-             height="12.500712"
-             width="116.58143"
-             id="rect5805-8-5-2-6" /></flowRegion><flowPara
-           id="flowPara6454">@ <flowSpan
-   id="flowSpan7442"
-   style="fill:#0c4674;fill-opacity:1">AutoGuard.PL</flowSpan></flowPara></flowRoot>      <g
-         id="g6237-8">
-        <path
-           inkscape:connector-curvature="0"
-           id="path4041-3-8-2"
-           d="m 542.80262,953.42431 62.25544,0"
-           style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        <path
-           transform="matrix(0,-0.90349256,0.84086096,0,221.27692,1013.6788)"
-           d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
-           sodipodi:ry="5.5871711"
-           sodipodi:rx="5.2817426"
-           sodipodi:cy="377.05365"
-           sodipodi:cx="66.72242"
-           id="path3988-1-0-6-8-0-3-6-87-85"
-           style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
-           sodipodi:type="arc" />
-        <path
-           transform="matrix(0,-0.90349256,0.84086096,0,292.43468,1013.6454)"
-           d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
-           sodipodi:ry="5.5871711"
-           sodipodi:rx="5.2817426"
-           sodipodi:cy="377.05365"
-           sodipodi:cx="66.72242"
-           id="path3988-1-0-6-8-0-3-6-87-8-9"
-           style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
-           sodipodi:type="arc" />
-      </g>
+       transform="translate(-43.514371,-84.01671)"
+       id="g6237-17">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 542.80262,953.42431 6.42262,0"
+         id="path4041-3-8-1"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="path3988-1-0-6-8-0-3-6-87-4"
+         sodipodi:cx="66.72242"
+         sodipodi:cy="377.05365"
+         sodipodi:rx="5.2817426"
+         sodipodi:ry="5.5871711"
+         d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
+         transform="matrix(0,-0.90349256,0.84086096,0,221.27692,1013.6788)" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="path3988-1-0-6-8-0-3-6-87-8-0"
+         sodipodi:cx="66.72242"
+         sodipodi:cy="377.05365"
+         sodipodi:rx="5.2817426"
+         sodipodi:ry="5.5871711"
+         d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
+         transform="matrix(0,-0.90349256,0.84086096,0,236.43468,1013.6454)" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="518.34241"
+       y="871.8009"
+       id="text4437-3-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4439-6-9"
+         x="518.34241"
+         y="871.8009">@ <tspan
+   style="fill:#0c4674;fill-opacity:1"
+   id="tspan4462-6">Kontomierz.PL</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="423.32977"
+       y="871.93048"
+       id="text4437-5-9-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4439-62-3-7"
+         x="423.32977"
+         y="871.93048">Lead Front-End</tspan></text>
+  </g>
+  <g
+     id="g4870">
     <g
-       id="g6242-7-2"
-       transform="translate(-339.01242,14.879739)">
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot5801-5-8-06-0"
-         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-         transform="translate(-192.26321,10.058566)"><flowRegion
-           id="flowRegion5803-9-0-4-3"><rect
-             id="rect5805-8-5-7-4"
-             width="144.15858"
-             height="11.970403"
-             x="616.26135"
-             y="936.86218"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" /></flowRegion><flowPara
-           id="flowPara5809-7-2-0-7">Senior Software Engineer </flowPara></flowRoot>      <flowRoot
-         transform="translate(81.60083,9.999351)"
-         style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;font-stretch:normal;font-variant:normal"
-         id="flowRoot5801-5-8-0-29-7"
-         xml:space="preserve"><flowRegion
-           id="flowRegion5803-9-0-2-1-1"><rect
-             y="936.86218"
-             x="616.26135"
-             height="12.500712"
-             width="116.58143"
-             id="rect5805-8-5-2-6-6"
-             style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /></flowRegion><flowPara
-           id="flowPara6454-5">@ <flowSpan
-   id="flowSpan7436"
-   style="fill:#0c4674;fill-opacity:1;-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">AutoGuard.PL</flowSpan></flowPara></flowRoot>      <g
-         id="g6237-8-5">
-        <path
-           inkscape:connector-curvature="0"
-           id="path4041-3-8-2-4"
-           d="m 542.80262,953.42431 142.20988,0"
-           style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        <path
-           transform="matrix(0,-0.90349256,0.84086096,0,221.27692,1013.6788)"
-           d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
-           sodipodi:ry="5.5871711"
-           sodipodi:rx="5.2817426"
-           sodipodi:cy="377.05365"
-           sodipodi:cx="66.72242"
-           id="path3988-1-0-6-8-0-3-6-87-85-6"
-           style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
-           sodipodi:type="arc" />
-        <path
-           transform="matrix(0,-0.90349256,0.84086096,0,372.43468,1013.6454)"
-           d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
-           sodipodi:ry="5.5871711"
-           sodipodi:rx="5.2817426"
-           sodipodi:cy="377.05365"
-           sodipodi:cx="66.72242"
-           id="path3988-1-0-6-8-0-3-6-87-8-9-8"
-           style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
-           sodipodi:type="arc" />
-      </g>
+       transform="translate(-90.436008,-154.71123)"
+       id="g5458-7-3-3">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 515.76466,982.37765 139.92814,0"
+         id="path4041-3-8-8-4"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:0.95999995;fill:none;stroke:#ffffff;stroke-width:2.20558286;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3988-1-0-6-87-7-5-1-2"
+         sodipodi:cx="66.72242"
+         sodipodi:cy="377.05365"
+         sodipodi:rx="5.2817426"
+         sodipodi:ry="5.5871711"
+         d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
+         transform="matrix(0,-1.4182889,1.3199707,0,166.45771,1076.9903)" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="path3988-1-0-6-8-0-3-6-87-3-0"
+         sodipodi:cx="66.72242"
+         sodipodi:cy="377.05365"
+         sodipodi:rx="5.2817426"
+         sodipodi:ry="5.5871711"
+         d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
+         transform="matrix(0,-0.90349256,0.84086096,0,194.54482,1042.6321)" />
     </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4437-5-9-0-0"
+       y="830.16516"
+       x="307.51514"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       xml:space="preserve"><tspan
+         y="830.16516"
+         x="307.51514"
+         id="tspan4439-62-3-7-1"
+         sodipodi:role="line">Open Source Contributor</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4437-3-8-0"
+       y="830.09808"
+       x="586.32098"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       xml:space="preserve"><tspan
+         y="830.09808"
+         x="586.32098"
+         id="tspan4439-6-9-1"
+         sodipodi:role="line">@ <tspan
+   id="tspan4462-6-3"
+   style="fill:#0c4674;fill-opacity:1">Github.Com/Muroc</tspan></tspan></text>
+  </g>
+  <g
+     id="g4986">
     <g
-       id="g6242-7-2-2-7"
-       transform="translate(-110.31571,-45.328936)">
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot5801-5-8-06-0-6-7"
-         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-         transform="translate(-191.64448,10.058566)"><flowRegion
-           id="flowRegion5803-9-0-4-3-2-6"><rect
-             id="rect5805-8-5-7-4-6-8"
-             width="144.15858"
-             height="11.970403"
-             x="616.26135"
-             y="936.86218"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" /></flowRegion><flowPara
-           id="flowPara5809-7-2-0-7-6-7">Senior Software Engineer </flowPara></flowRoot>      <flowRoot
-         transform="translate(-1.3411116,9.999351)"
-         style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;font-stretch:normal;font-variant:normal"
-         id="flowRoot5801-5-8-0-29-7-5-3"
-         xml:space="preserve"><flowRegion
-           id="flowRegion5803-9-0-2-1-1-0-2"><rect
-             y="936.86218"
-             x="616.26135"
-             height="12.500712"
-             width="116.58143"
-             id="rect5805-8-5-2-6-6-5-5"
-             style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /></flowRegion><flowPara
-           id="flowPara6454-5-4-4">@ <flowSpan
-   id="flowSpan7432"
-   style="fill:#0c4674;fill-opacity:1;-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">COI.Gov.PL</flowSpan></flowPara></flowRoot>      <g
-         id="g6237-8-5-3-3">
-        <path
-           inkscape:connector-curvature="0"
-           id="path4041-3-8-2-4-1-5"
-           d="m 542.80262,953.42431 58.25983,0"
-           style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        <path
-           transform="matrix(0,-0.90349256,0.84086096,0,221.27692,1013.6788)"
-           d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
-           sodipodi:ry="5.5871711"
-           sodipodi:rx="5.2817426"
-           sodipodi:cy="377.05365"
-           sodipodi:cx="66.72242"
-           id="path3988-1-0-6-8-0-3-6-87-85-6-9-7"
-           style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
-           sodipodi:type="arc" />
-        <path
-           transform="matrix(0,-0.90349256,0.84086096,0,288.43468,1013.6454)"
-           d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
-           sodipodi:ry="5.5871711"
-           sodipodi:rx="5.2817426"
-           sodipodi:cy="377.05365"
-           sodipodi:cx="66.72242"
-           id="path3988-1-0-6-8-0-3-6-87-8-9-8-8-5"
-           style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
-           sodipodi:type="arc" />
-      </g>
+       transform="translate(-90.240053,5.68173)"
+       id="g5458-7-3">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 563.95802,982.37765 91.68729,0"
+         id="path4041-3-8-8"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:0.95999995;fill:none;stroke:#ffffff;stroke-width:2.20558286;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3988-1-0-6-87-7-5-1"
+         sodipodi:cx="66.72242"
+         sodipodi:cy="377.05365"
+         sodipodi:rx="5.2817426"
+         sodipodi:ry="5.5871711"
+         d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
+         transform="matrix(0,-1.4182889,1.3199707,0,166.45771,1076.9903)" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="path3988-1-0-6-8-0-3-6-87-3"
+         sodipodi:cx="66.72242"
+         sodipodi:cy="377.05365"
+         sodipodi:rx="5.2817426"
+         sodipodi:ry="5.5871711"
+         d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
+         transform="matrix(0,-0.90349256,0.84086096,0,242.54482,1042.6321)" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="427.849"
+       y="990.50793"
+       id="text4437-5-5"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4945"
+         sodipodi:role="line"
+         x="427.849"
+         y="990.50793">Blogger</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="586.48181"
+       y="990.4743"
+       id="text4437-3-8-0-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4439-6-9-1-2"
+         x="586.48181"
+         y="990.4743">@ <tspan
+   style="fill:#0c4674;fill-opacity:1"
+   id="tspan4462-6-3-9">SoftwarePhilosophy.Ninja</tspan></tspan></text>
+  </g>
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot5018"
+     style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Droid Sans;font-style:normal;font-weight:normal;font-size:9px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Droid Sans;font-stretch:normal;font-variant:normal"><flowRegion
+       id="flowRegion5020"><rect
+         id="rect5022"
+         width="18.738329"
+         height="15.202796"
+         x="217.78889"
+         y="886.19208" /></flowRegion><flowPara
+       id="flowPara5024"></flowPara></flowRoot>  <g
+     id="g5050"
+     transform="translate(0,80)">
     <g
-       id="g6242-7-2-2"
-       transform="translate(-187.51201,-25.25056)">
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot5801-5-8-06-0-6"
-         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-         transform="translate(-162.76321,10.058566)"><flowRegion
-           id="flowRegion5803-9-0-4-3-2"><rect
-             id="rect5805-8-5-7-4-6"
-             width="144.15858"
-             height="11.970403"
-             x="616.26135"
-             y="936.86218"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" /></flowRegion><flowPara
-           id="flowPara5809-7-2-0-7-6">Software Engineer </flowPara></flowRoot>      <flowRoot
-         transform="translate(7.35083,9.999351)"
-         style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;font-stretch:normal;font-variant:normal"
-         id="flowRoot5801-5-8-0-29-7-5"
-         xml:space="preserve"><flowRegion
-           id="flowRegion5803-9-0-2-1-1-0"><rect
-             y="936.86218"
-             x="616.26135"
-             height="12.500712"
-             width="116.58143"
-             id="rect5805-8-5-2-6-6-5"
-             style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /></flowRegion><flowPara
-           id="flowPara6454-5-4">@ <flowSpan
-   id="flowSpan7434"
-   style="fill:#0c4674;fill-opacity:1;-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">SAMSUNG.PL</flowSpan></flowPara></flowRoot>      <g
-         id="g6237-8-5-3">
-        <path
-           inkscape:connector-curvature="0"
-           id="path4041-3-8-2-4-1"
-           d="m 542.80262,953.42431 68.39111,0"
-           style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        <path
-           transform="matrix(0,-0.90349256,0.84086096,0,221.27692,1013.6788)"
-           d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
-           sodipodi:ry="5.5871711"
-           sodipodi:rx="5.2817426"
-           sodipodi:cy="377.05365"
-           sodipodi:cx="66.72242"
-           id="path3988-1-0-6-8-0-3-6-87-85-6-9"
-           style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
-           sodipodi:type="arc" />
-        <path
-           transform="matrix(0,-0.90349256,0.84086096,0,298.43468,1013.6454)"
-           d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
-           sodipodi:ry="5.5871711"
-           sodipodi:rx="5.2817426"
-           sodipodi:cy="377.05365"
-           sodipodi:cx="66.72242"
-           id="path3988-1-0-6-8-0-3-6-87-8-9-8-8"
-           style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
-           sodipodi:type="arc" />
-      </g>
+       transform="translate(-6,16)"
+       id="g6873">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 293.54826,791.9076 157.81388,0"
+         id="path4041-3-8-2-7-1"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="path3988-1-0-6-8-0-3-6-87-85-3-3"
+         sodipodi:cx="66.72242"
+         sodipodi:cy="377.05365"
+         sodipodi:rx="5.2817426"
+         sodipodi:ry="5.5871711"
+         d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
+         transform="matrix(0,-0.90349256,0.84086096,0,-27.97744,852.16209)" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:0.95999995;fill:none;stroke:#ffffff;stroke-width:2.20558286;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3988-1-0-6-87-7-5-1-2-9"
+         sodipodi:cx="66.72242"
+         sodipodi:cy="377.05365"
+         sodipodi:rx="5.2817426"
+         sodipodi:ry="5.5871711"
+         d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
+         transform="matrix(0,-1.4182889,1.3199707,0,-37.553325,886.43579)" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="174.82133"
+       y="810.44763"
+       id="text4437-5-9-09"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4439-62-3-9"
+         x="174.82133"
+         y="810.44763">Computer Science (BsC)</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4437-3-8-0-0-4"
+       y="810.33472"
+       x="468.5997"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       xml:space="preserve"><tspan
+         y="810.33472"
+         x="468.5997"
+         id="tspan4439-6-9-1-2-5"
+         sodipodi:role="line">@ <tspan
+   id="tspan4462-6-3-9-1"
+   style="fill:#0c4674;fill-opacity:1">PJA.Edu.PL</tspan></tspan></text>
+  </g>
+  <g
+     id="g5119">
     <g
-       id="g6125-1"
-       transform="translate(8.276446,34.63507)">
-      <g
-         id="g5458-7-3"
-         transform="translate(-98.516499,-28.95334)">
-        <path
-           inkscape:connector-curvature="0"
-           id="path4041-3-8-8"
-           d="m 563.95802,982.37765 91.68729,0"
-           style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        <path
-           transform="matrix(0,-1.4182889,1.3199707,0,166.45771,1076.9903)"
-           d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
-           sodipodi:ry="5.5871711"
-           sodipodi:rx="5.2817426"
-           sodipodi:cy="377.05365"
-           sodipodi:cx="66.72242"
-           id="path3988-1-0-6-87-7-5-1"
-           style="opacity:0.95999995;fill:none;stroke:#ffffff;stroke-width:2.20558286;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           sodipodi:type="arc" />
-        <path
-           transform="matrix(0,-0.90349256,0.84086096,0,242.54482,1042.6321)"
-           d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
-           sodipodi:ry="5.5871711"
-           sodipodi:rx="5.2817426"
-           sodipodi:cy="377.05365"
-           sodipodi:cx="66.72242"
-           id="path3988-1-0-6-8-0-3-6-87-3"
-           style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
-           sodipodi:type="arc" />
-      </g>
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot5801-5-8-7"
-         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-         transform="translate(-196.67219,10.058566)"><flowRegion
-           id="flowRegion5803-9-0-6"><rect
-             id="rect5805-8-5-1"
-             width="116.58143"
-             height="12.500712"
-             x="616.26135"
-             y="936.86218"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" /></flowRegion><flowPara
-           id="flowPara5809-7-2-4">Blogger</flowPara></flowRoot>      <flowRoot
-         transform="translate(-38.045616,9.999351)"
-         style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;font-stretch:normal;font-variant:normal"
-         id="flowRoot5801-5-8-0-9"
-         xml:space="preserve"><flowRegion
-           id="flowRegion5803-9-0-2-2"><rect
-             y="936.86218"
-             x="616.26135"
-             height="11.500732"
-             width="135.58142"
-             id="rect5805-8-5-2-0"
-             style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /></flowRegion><flowPara
-           id="flowPara5809-7-2-9-1">@ <flowSpan
-   id="flowSpan7438"
-   style="fill:#0c4674;fill-opacity:1;-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">SoftwarePhilosophy.Ninja</flowSpan></flowPara></flowRoot>    </g>
-    <g
-       transform="translate(-18,-84)"
-       id="g6242">
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot5801-5-8"
-         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-         transform="translate(-192.67219,10.058566)"><flowRegion
-           id="flowRegion5803-9-0"><rect
-             id="rect5805-8-5"
-             width="116.58143"
-             height="12.500712"
-             x="616.26135"
-             y="936.86218"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" /></flowRegion><flowPara
-           id="flowPara5809-7-2">Senior Software Engineer </flowPara></flowRoot>      <flowRoot
-         transform="translate(-54.39917,9.999351)"
-         style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;font-stretch:normal;font-variant:normal"
-         id="flowRoot5801-5-8-0"
-         xml:space="preserve"><flowRegion
-           id="flowRegion5803-9-0-2"><rect
-             y="936.86218"
-             x="616.26135"
-             height="12.500712"
-             width="116.58143"
-             id="rect5805-8-5-2"
-             style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /></flowRegion><flowPara
-           id="flowPara5809-7-2-9">@ <flowSpan
-   id="flowSpan7428"
-   style="fill:#0c4674;fill-opacity:1;-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Allegro.PL</flowSpan></flowPara></flowRoot>      <g
-         id="g6237">
-        <path
-           inkscape:connector-curvature="0"
-           id="path4041-3-8"
-           d="m 542.80262,953.42431 6.42262,0"
-           style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        <path
-           transform="matrix(0,-0.90349256,0.84086096,0,221.27692,1013.6788)"
-           d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
-           sodipodi:ry="5.5871711"
-           sodipodi:rx="5.2817426"
-           sodipodi:cy="377.05365"
-           sodipodi:cx="66.72242"
-           id="path3988-1-0-6-8-0-3-6-87"
-           style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
-           sodipodi:type="arc" />
-        <path
-           transform="matrix(0,-0.90349256,0.84086096,0,236.43468,1013.6454)"
-           d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
-           sodipodi:ry="5.5871711"
-           sodipodi:rx="5.2817426"
-           sodipodi:cy="377.05365"
-           sodipodi:cx="66.72242"
-           id="path3988-1-0-6-8-0-3-6-87-8"
-           style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
-           sodipodi:type="arc" />
-      </g>
+       transform="translate(-18,-44)"
+       id="g6237">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 542.80262,953.42431 6.42262,0"
+         id="path4041-3-8"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="path3988-1-0-6-8-0-3-6-87"
+         sodipodi:cx="66.72242"
+         sodipodi:cy="377.05365"
+         sodipodi:rx="5.2817426"
+         sodipodi:ry="5.5871711"
+         d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
+         transform="matrix(0,-0.90349256,0.84086096,0,221.27692,1013.6788)" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="path3988-1-0-6-8-0-3-6-87-8"
+         sodipodi:cx="66.72242"
+         sodipodi:cy="377.05365"
+         sodipodi:rx="5.2817426"
+         sodipodi:ry="5.5871711"
+         d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
+         transform="matrix(0,-0.90349256,0.84086096,0,236.43468,1013.6454)" />
     </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4437-5-9-09-0"
+       y="911.89758"
+       x="405.58008"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       xml:space="preserve"><tspan
+         y="911.89758"
+         x="405.58008"
+         id="tspan4439-62-3-9-3"
+         sodipodi:role="line">Senior Software Engineer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="543.86176"
+       y="911.84412"
+       id="text4437-3-8-0-0-4-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4439-6-9-1-2-5-8"
+         x="543.86176"
+         y="911.84412">@ <tspan
+   style="fill:#0c4674;fill-opacity:1"
+   id="tspan4462-6-3-9-1-8">Allegro.PL</tspan></tspan></text>
+  </g>
+  <g
+     id="g5188">
     <g
-       id="g6125-1-6"
-       transform="translate(8.080491,-105.75789)">
-      <g
-         id="g5458-7-3-3"
-         transform="translate(-98.516499,-28.95334)">
-        <path
-           inkscape:connector-curvature="0"
-           id="path4041-3-8-8-4"
-           d="m 515.76466,982.37765 139.92814,0"
-           style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        <path
-           transform="matrix(0,-1.4182889,1.3199707,0,166.45771,1076.9903)"
-           d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
-           sodipodi:ry="5.5871711"
-           sodipodi:rx="5.2817426"
-           sodipodi:cy="377.05365"
-           sodipodi:cx="66.72242"
-           id="path3988-1-0-6-87-7-5-1-2"
-           style="opacity:0.95999995;fill:none;stroke:#ffffff;stroke-width:2.20558286;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           sodipodi:type="arc" />
-        <path
-           transform="matrix(0,-0.90349256,0.84086096,0,194.54482,1042.6321)"
-           d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
-           sodipodi:ry="5.5871711"
-           sodipodi:rx="5.2817426"
-           sodipodi:cy="377.05365"
-           sodipodi:cx="66.72242"
-           id="path3988-1-0-6-8-0-3-6-87-3-0"
-           style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
-           sodipodi:type="arc" />
-      </g>
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot5801-5-8-7-5"
-         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-         transform="translate(-317.67219,10.058566)"><flowRegion
-           id="flowRegion5803-9-0-6-9"><rect
-             id="rect5805-8-5-1-4"
-             width="117.33142"
-             height="13.000732"
-             x="616.26135"
-             y="936.86218"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" /></flowRegion><flowPara
-           id="flowPara5809-7-2-4-4">Open Source Contributor</flowPara></flowRoot>      <flowRoot
-         transform="translate(-38.045616,9.999351)"
-         style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;font-stretch:normal;font-variant:normal"
-         id="flowRoot5801-5-8-0-9-9"
-         xml:space="preserve"><flowRegion
-           id="flowRegion5803-9-0-2-2-1"><rect
-             y="936.86218"
-             x="616.26135"
-             height="11.500732"
-             width="135.58142"
-             id="rect5805-8-5-2-0-9"
-             style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /></flowRegion><flowPara
-           id="flowPara5809-7-2-9-1-9">@ <flowSpan
-   id="flowSpan7426"
-   style="fill:#0c4674;fill-opacity:1;-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Github.Com/Muroc</flowSpan></flowPara></flowRoot>    </g>
+       transform="translate(-110.31571,-25.32894)"
+       id="g6237-8-5-3-3">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:2.96768832;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 542.77048,953.42431 57.01161,0"
+         id="path4041-3-8-2-4-1-5"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="path3988-1-0-6-8-0-3-6-87-85-6-9-7"
+         sodipodi:cx="66.72242"
+         sodipodi:cy="377.05365"
+         sodipodi:rx="5.2817426"
+         sodipodi:ry="5.5871711"
+         d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
+         transform="matrix(0,-0.90349256,0.84086096,0,221.27692,1013.6788)" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="path3988-1-0-6-8-0-3-6-87-8-9-8-8-5"
+         sodipodi:cx="66.72242"
+         sodipodi:cy="377.05365"
+         sodipodi:rx="5.2817426"
+         sodipodi:ry="5.5871711"
+         d="m 72.004162,377.05365 a 5.2817426,5.5871711 0 1 1 -10.563485,0 5.2817426,5.5871711 0 1 1 10.563485,0 z"
+         transform="matrix(0,-0.90349256,0.84086096,0,287.05968,1013.6454)" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="314.29102"
+       y="930.57581"
+       id="text4437-5-9-09-0-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4439-62-3-9-3-0"
+         x="314.29102"
+         y="930.57581">Senior Software Engineer</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4437-3-8-0-0-4-7-4"
+       y="930.51648"
+       x="504.59595"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       xml:space="preserve"><tspan
+         y="930.51648"
+         x="504.59595"
+         id="tspan4439-6-9-1-2-5-8-6"
+         sodipodi:role="line">@ <tspan
+   id="tspan4462-6-3-9-1-8-7"
+   style="fill:#0c4674;fill-opacity:1">COI.Gov.PL</tspan></tspan></text>
+  </g>
+  <g
+     id="g5258">
+    <g
+       transform="translate(-187.51201,-5.25056)"
+       id="g6237-8-5-3">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 542.80262,953.42431 68.39111,0"
+         id="path4041-3-8-2-4-1"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="path3988-1-0-6-8-0-3-6-87-85-6-9"
+         sodipodi:cx="66.72242"
+         sodipodi:cy="377.05365"
+         sodipodi:rx="5.2817426"
+         sodipodi:ry="5.5871711"
+         d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
+         transform="matrix(0,-0.90349256,0.84086096,0,221.27692,1013.6788)" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="path3988-1-0-6-8-0-3-6-87-8-9-8-8"
+         sodipodi:cx="66.72242"
+         sodipodi:cy="377.05365"
+         sodipodi:rx="5.2817426"
+         sodipodi:ry="5.5871711"
+         d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
+         transform="matrix(0,-0.90349256,0.84086096,0,298.43468,1013.6454)" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4437-5-9-09-0-6-6"
+       y="950.65393"
+       x="265.97461"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       xml:space="preserve"><tspan
+         y="950.65393"
+         x="265.97461"
+         id="tspan4439-62-3-9-3-0-0"
+         sodipodi:role="line">Software Engineer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="436.08423"
+       y="950.59241"
+       id="text4437-3-8-0-0-4-7-4-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4439-6-9-1-2-5-8-6-7"
+         x="436.08423"
+         y="950.59241">@ <tspan
+   style="fill:#0c4674;fill-opacity:1"
+   id="tspan4462-6-3-9-1-8-7-5">SAMSUNG.PL</tspan></tspan></text>
   </g>
 </svg>
