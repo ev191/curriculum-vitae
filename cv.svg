@@ -31,9 +31,9 @@
      inkscape:window-height="1053"
      id="namedview56"
      showgrid="true"
-     inkscape:zoom="1.4142135"
-     inkscape:cx="457.42694"
-     inkscape:cy="191.68932"
+     inkscape:zoom="3.9999998"
+     inkscape:cx="691.42478"
+     inkscape:cy="1003.1234"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -9724,77 +9724,6 @@
        y="171.24155"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">Polyglot Programmer, Technical Writter</tspan></text>
   <g
-     transform="translate(2e-7,0.12950381)"
-     id="g5618-4-7">
-    <g
-       transform="translate(386.1211,-185.69239)"
-       id="g5033-7-3">
-      <path
-         sodipodi:type="arc"
-         style="opacity:0.95999995;fill:none;stroke:#ffffff;stroke-width:2.2051518;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         id="path3988-1-0-6-87-6-1"
-         sodipodi:cx="66.72242"
-         sodipodi:cy="377.05365"
-         sodipodi:rx="5.2817426"
-         sodipodi:ry="5.5871711"
-         d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
-         transform="matrix(0,-0.41639983,0.38753427,0,16.755613,248.34826)" />
-      <path
-         sodipodi:type="arc"
-         style="opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none"
-         id="path3988-1-0-6-8-0-3-0"
-         sodipodi:cx="66.72242"
-         sodipodi:cy="377.05365"
-         sodipodi:rx="5.2817426"
-         sodipodi:ry="5.5871711"
-         d="m 72.004162,377.05365 c 0,3.08571 -2.364716,5.58717 -5.281742,5.58717 -2.917026,0 -5.281743,-2.50146 -5.281743,-5.58717 0,-3.08571 2.364717,-5.58717 5.281743,-5.58717 2.917026,0 5.281742,2.50146 5.281742,5.58717 z"
-         transform="matrix(0,-0.28623446,0.26639219,0,62.571706,286.29569)" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path4225-9-2-1-1-0"
-         d="m 162.99169,266.7855 -0.0163,-43.5764"
-         style="fill:none;stroke:#ffffff;stroke-width:1.02025008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    </g>
-    <text
-       sodipodi:linespacing="125%"
-       id="text5535-7-5"
-       y="51.26062"
-       x="541.62756"
-       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       xml:space="preserve"><tspan
-         y="51.26062"
-         x="541.62756"
-         id="tspan5537-5-0"
-         sodipodi:role="line">Tech Blog</tspan><tspan
-         id="tspan5539-9-3"
-         y="62.51062"
-         x="541.62756"
-         sodipodi:role="line">Github Profile</tspan><tspan
-         id="tspan5541-6-1"
-         y="73.76062"
-         x="541.62756"
-         sodipodi:role="line">Career Profile</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text5583-2-8"
-       y="51.190731"
-       x="556.14899"
-       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0c4674;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       xml:space="preserve"><tspan
-         y="51.190731"
-         x="556.14899"
-         id="tspan5585-1-0"
-         sodipodi:role="line">SoftwarePhilosophy.Ninja</tspan><tspan
-         id="tspan5587-7-1"
-         y="62.440731"
-         x="556.14899"
-         sodipodi:role="line">Github.Com/Muroc</tspan><tspan
-         id="tspan5593-8-7"
-         y="73.690735"
-         x="556.14899"
-         sodipodi:role="line">StackOverflow.Com/CV/MaciejChalapuk</tspan></text>
-  </g>
-  <g
      id="g6683-5-9"
      transform="translate(2e-7,86.352404)">
     <g
@@ -13079,4 +13008,115 @@
        y="309.96448"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#0c4674;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        id="tspan5170-2-6">Skills &amp; Competences</tspan></text>
+  <rect
+     style="fill:#b4b4b4;fill-opacity:1;stroke:none"
+     id="rect4043-5-8-2"
+     width="492.84506"
+     height="77.112801"
+     x="251.25"
+     y="-0.00061738282" />
+  <g
+     transform="translate(-196.62756,-18.898437)"
+     id="g5618-4-7">
+    <g
+       transform="translate(386.1211,-185.69239)"
+       id="g5033-7-3">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4225-9-2-1-1-0"
+         d="m 162.99169,266.7855 -0.0163,-43.5764"
+         style="fill:none;stroke:#ffffff;stroke-width:1.02025008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5535-7-5"
+       y="51.26062"
+       x="541.62756"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       xml:space="preserve"><tspan
+         y="51.26062"
+         x="541.62756"
+         id="tspan5537-5-0"
+         sodipodi:role="line">Tech Blog</tspan><tspan
+         id="tspan5539-9-3"
+         y="62.51062"
+         x="541.62756"
+         sodipodi:role="line">Github Profile</tspan><tspan
+         id="tspan5541-6-1"
+         y="73.76062"
+         x="541.62756"
+         sodipodi:role="line">Career Profile</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5583-2-8"
+       y="51.190731"
+       x="556.14899"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0c4674;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       xml:space="preserve"><tspan
+         y="51.190731"
+         x="556.14899"
+         id="tspan5585-1-0"
+         sodipodi:role="line">SoftwarePhilosophy.Ninja</tspan><tspan
+         id="tspan5587-7-1"
+         y="62.440731"
+         x="556.14899"
+         sodipodi:role="line">Github.Com/Muroc</tspan><tspan
+         id="tspan5593-8-7"
+         y="73.690735"
+         x="556.14899"
+         sodipodi:role="line">StackOverflow.Com/CV/MaciejChalapuk</tspan></text>
+  </g>
+  <g
+     transform="translate(62.122437,-18.898437)"
+     id="g5618-4-7-7">
+    <g
+       transform="translate(386.1211,-185.69239)"
+       id="g5033-7-3-0">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4225-9-2-1-1-0-5"
+         d="m 162.99169,266.7855 -0.0163,-43.5764"
+         style="fill:none;stroke:#ffffff;stroke-width:1.02025008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5535-7-5-3"
+       y="51.26062"
+       x="541.62756"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       xml:space="preserve"><tspan
+         id="tspan5541-6-1-2"
+         y="51.26062"
+         x="541.62756"
+         sodipodi:role="line">Email</tspan><tspan
+         y="62.51062"
+         x="541.62756"
+         sodipodi:role="line"
+         id="tspan12545">Adpress</tspan><tspan
+         y="73.76062"
+         x="541.62756"
+         sodipodi:role="line"
+         id="tspan12547">Phone</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5583-2-8-9"
+       y="51.190731"
+       x="556.14899"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0c4674;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       xml:space="preserve"><tspan
+         id="tspan5593-8-7-0"
+         y="51.190731"
+         x="556.14899"
+         sodipodi:role="line">maciej@chalapuk.pl</tspan><tspan
+         y="62.440731"
+         x="556.14899"
+         sodipodi:role="line"
+         id="tspan12554"
+         style="fill:#212121;fill-opacity:1">02-372, Warsaw, Poland</tspan><tspan
+         y="73.690735"
+         x="556.14899"
+         sodipodi:role="line"
+         id="tspan12556"
+         style="fill:#212121;fill-opacity:1">+48 {{mobile-number}}</tspan></text>
+  </g>
 </svg>
