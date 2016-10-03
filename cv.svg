@@ -30,10 +30,10 @@
      inkscape:window-width="1920"
      inkscape:window-height="1173"
      id="namedview56"
-     showgrid="false"
-     inkscape:zoom="0.49999998"
-     inkscape:cx="788.09709"
-     inkscape:cy="798.4194"
+     showgrid="true"
+     inkscape:zoom="0.99999996"
+     inkscape:cx="-12.311718"
+     inkscape:cy="825.03712"
      inkscape:window-x="1920"
      inkscape:window-y="1"
      inkscape:window-maximized="1"
@@ -319,7 +319,7 @@
     </rdf:RDF>
   </metadata>
   <rect
-     style="fill:#c6c9c6;fill-opacity:1;stroke:none"
+     style="fill:#c6cac6;fill-opacity:1;stroke:none"
      id="rect4043-1-6"
      width="744.10156"
      height="1023.1093"
@@ -2146,7 +2146,7 @@
        id="text5463-3"
        y="772.44299"
        x="-633.8219"
-       style="font-size:13.5909853px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:13.59098529999999982px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1b1b1b;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        xml:space="preserve"><tspan
          id="tspan5467-3"
          y="772.44299"
@@ -2158,7 +2158,7 @@
        id="text5463-0-5"
        y="807.30536"
        x="-598.95953"
-       style="font-size:13.5909853px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:13.59098529999999982px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1b1b1b;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        xml:space="preserve"><tspan
          id="tspan5467-0-01"
          y="807.30536"
@@ -2170,7 +2170,7 @@
        id="text5463-0-4-4"
        y="840.13464"
        x="-566.13025"
-       style="font-size:13.5909853px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:13.59098529999999982px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1b1b1b;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        xml:space="preserve"><tspan
          id="tspan5467-0-0-5"
          y="840.13464"
@@ -2182,7 +2182,7 @@
        id="text5463-0-4-8-7"
        y="873.97803"
        x="-532.28687"
-       style="font-size:13.5909853px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:13.59098529999999982px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1b1b1b;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        xml:space="preserve"><tspan
          id="tspan5467-0-0-1-0"
          y="873.97803"
@@ -2194,7 +2194,7 @@
        id="text5463-0-4-8-1-78"
        y="907.89935"
        x="-498.36554"
-       style="font-size:13.5909853px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:13.59098529999999982px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1b1b1b;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        xml:space="preserve"><tspan
          id="tspan5467-0-0-1-9-9"
          y="907.89935"
@@ -2206,7 +2206,7 @@
        id="text5463-0-4-8-1-9-93"
        y="942.73944"
        x="-463.52545"
-       style="font-size:13.5909853px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:13.59098529999999982px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1b1b1b;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        xml:space="preserve"><tspan
          id="tspan5467-0-0-1-9-3-9"
          y="942.73944"
@@ -2218,7 +2218,7 @@
        id="text5463-0-4-8-1-99-46"
        y="1007.1717"
        x="-399.09317"
-       style="font-size:13.5909853px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:13.59098529999999982px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1b1b1b;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        xml:space="preserve"><tspan
          id="tspan5467-0-0-1-9-1-4"
          y="1007.1717"
@@ -2230,7 +2230,7 @@
        id="text5463-0-4-8-1-2-5"
        y="975.6604"
        x="-430.60449"
-       style="font-size:13.5909853px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:13.59098529999999982px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1b1b1b;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        xml:space="preserve"><tspan
          id="tspan5467-0-0-1-9-6-5"
          y="975.6604"
@@ -2242,7 +2242,7 @@
        id="text5463-0-4-8-1-99-4-5"
        y="1038.7186"
        x="-367.54626"
-       style="font-size:13.5909853px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:13.59098529999999982px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1b1b1b;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        xml:space="preserve"><tspan
          id="tspan5467-0-0-1-9-1-7-60"
          y="1038.7186"
@@ -2254,7 +2254,7 @@
        id="text5463-0-4-8-1-99-9-6"
        y="1071.385"
        x="-334.87991"
-       style="font-size:13.5909853px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:13.59098529999999982px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1b1b1b;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        xml:space="preserve"><tspan
          id="tspan5467-0-0-1-9-1-3-26"
          y="1071.385"
@@ -2266,7 +2266,7 @@
        id="text5463-0-4-8-1-99-9-2-99"
        y="1105.0961"
        x="-301.16879"
-       style="font-size:13.5909853px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:13.59098529999999982px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1b1b1b;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        xml:space="preserve"><tspan
          id="tspan5467-0-0-1-9-1-3-8-2"
          y="1105.0961"
@@ -2310,7 +2310,7 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-size:9.0606575px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         style="font-size:9.06065749999999959px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#161616;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          x="90.076218"
          y="851.16571"
          id="text4437-6"
@@ -2330,7 +2330,7 @@
            id="tspan4439-6-6"
            x="137.20494"
            y="851.1911">@ <tspan
-   style="font-size:9.0606575px;font-weight:normal;fill:#0c4674;fill-opacity:1;-inkscape-font-specification:Droid Sans"
+   style="font-size:9.06065749999999959px;font-weight:normal;fill:#082e4a;fill-opacity:1;-inkscape-font-specification:Droid Sans"
    id="tspan4462-02">NailDesign.PL</tspan></tspan></text>
     </g>
     <g
@@ -2374,12 +2374,14 @@
            sodipodi:role="line"
            id="tspan4439-6-5-4"
            x="207.75476"
-           y="990.90887">@ <tspan
-   style="font-size:9.0606575px;fill:#0c4674;fill-opacity:1"
-   id="tspan4462-3-0">AutoGuard.PL</tspan></tspan></text>
+           y="990.90887"><tspan
+             style="fill:#161616;fill-opacity:1"
+             id="tspan5845">@</tspan><tspan
+             style="font-size:9.0606575px;fill:#082e4a;fill-opacity:1"
+             id="tspan4462-3-0"> AutoGuard.PL</tspan></tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:9.0606575px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         style="font-size:9.06065749999999959px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#161616;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          x="116.62138"
          y="990.57245"
          id="text4437-5-0"
@@ -2430,12 +2432,14 @@
            sodipodi:role="line"
            id="tspan4439-6-5-1-3"
            x="358.82553"
-           y="971.12231">@ <tspan
-   style="font-size:9.0606575px;fill:#0c4674;fill-opacity:1"
-   id="tspan4462-3-2-23">AutoGuard.PL</tspan></tspan></text>
+           y="971.12231"><tspan
+             style="fill:#161616;fill-opacity:1"
+             id="tspan5847">@</tspan><tspan
+             style="font-size:9.0606575px;fill:#082e4a;fill-opacity:1"
+             id="tspan4462-3-2-23"> AutoGuard.PL</tspan></tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:9.0606575px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         style="font-size:9.06065749999999959px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#161616;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          x="188.38383"
          y="970.37073"
          id="text4437-5-7-6"
@@ -2479,7 +2483,7 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-size:9.0606575px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         style="font-size:9.06065749999999959px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#161616;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          x="117.57832"
          y="950.47089"
          id="text4437-5-9-6"
@@ -2490,7 +2494,7 @@
            y="950.47089">Front-End Dev</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:9.0606575px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         style="font-size:9.06065749999999959px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#161616;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          x="359.23584"
          y="950.61609"
          id="text4437-3-7-9-6-4"
@@ -2499,7 +2503,7 @@
            id="tspan4439-6-5-1-0-6"
            x="359.23584"
            y="950.61609">@ Freelance Jobs<tspan
-   style="font-size:9.0606575px;fill:#0c4674;fill-opacity:1"
+   style="font-size:9.06065749999999959px;fill:#161616;fill-opacity:1"
    id="tspan4462-3-2-6-42" /></tspan></text>
     </g>
     <g
@@ -2543,9 +2547,11 @@
            y="871.8009"
            x="518.34241"
            id="tspan4439-6-9-12"
-           sodipodi:role="line">@ <tspan
-   id="tspan4462-6-1"
-   style="font-size:9.0606575px;fill:#0c4674;fill-opacity:1">Kontomierz.PL</tspan></tspan></text>
+           sodipodi:role="line"><tspan
+             style="fill:#161616;fill-opacity:1"
+             id="tspan5855">@ </tspan><tspan
+             id="tspan4462-6-1"
+             style="font-size:9.06065749999999959px;fill:#082e4a;fill-opacity:1">Kontomierz.PL</tspan></tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text4437-5-9-0-08"
@@ -2591,7 +2597,7 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-size:9.0606575px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         style="font-size:9.06065749999999959px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#161616;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          x="408.65527"
          y="830.16516"
          id="text4437-5-9-0-0-5"
@@ -2610,9 +2616,11 @@
            sodipodi:role="line"
            id="tspan4439-6-9-1-0"
            x="586.32098"
-           y="830.09808">@ <tspan
-   style="font-size:9.0606575px;fill:#0c4674;fill-opacity:1"
-   id="tspan4462-6-3-6">Github.Com/Muroc</tspan></tspan></text>
+           y="830.09808"><tspan
+             style="fill:#161616;fill-opacity:1"
+             id="tspan5857">@ </tspan><tspan
+             style="font-size:9.06065749999999959px;fill:#082e4a;fill-opacity:1"
+             id="tspan4462-6-3-6">Github.Com/Muroc</tspan></tspan></text>
     </g>
     <g
        id="g4986-3">
@@ -2650,7 +2658,7 @@
          id="text4437-5-5-7"
          y="990.50793"
          x="457.73621"
-         style="font-size:9.0606575px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         style="font-size:9.06065749999999959px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#161616;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          xml:space="preserve"><tspan
            y="990.50793"
            x="457.73621"
@@ -2661,14 +2669,14 @@
          id="text4437-3-8-0-0-2"
          y="990.4743"
          x="586.48181"
-         style="font-size:9.0606575px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         style="font-size:9.06065749999999959px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#161616;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          xml:space="preserve"><tspan
            y="990.4743"
            x="586.48181"
            id="tspan4439-6-9-1-2-0"
            sodipodi:role="line">@ <tspan
    id="tspan4462-6-3-9-0"
-   style="font-size:9.0606575px;fill:#0c4674;fill-opacity:1">SoftwarePhilosophy.Ninja</tspan></tspan></text>
+   style="font-size:9.06065749999999959px;fill:#082e4a;fill-opacity:1">SoftwarePhilosophy.Ninja</tspan></tspan></text>
     </g>
     <g
        transform="translate(0,80)"
@@ -2707,7 +2715,7 @@
          id="text4437-5-9-09-3"
          y="810.44763"
          x="270.29694"
-         style="font-size:9.0606575px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         style="font-size:9.06065749999999959px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#161616;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          xml:space="preserve"><tspan
            y="810.44763"
            x="270.29694"
@@ -2723,9 +2731,11 @@
            sodipodi:role="line"
            id="tspan4439-6-9-1-2-5-4"
            x="468.5997"
-           y="810.33472">@ <tspan
-   style="font-size:9.0606575px;fill:#0c4674;fill-opacity:1"
-   id="tspan4462-6-3-9-1-5">PJA.Edu.PL</tspan></tspan></text>
+           y="810.33472"><tspan
+             style="fill:#161616;fill-opacity:1"
+             id="tspan5853">@ </tspan><tspan
+             style="font-size:9.06065749999999959px;fill:#082e4a;fill-opacity:1"
+             id="tspan4462-6-3-9-1-5">PJA.Edu.PL</tspan></tspan></text>
     </g>
     <g
        id="g5119-3">
@@ -2760,7 +2770,7 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-size:9.0606575px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         style="font-size:9.06065749999999959px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#161616;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          x="506.93555"
          y="911.89758"
          id="text4437-5-9-09-0-8"
@@ -2779,9 +2789,11 @@
            y="911.84412"
            x="543.86176"
            id="tspan4439-6-9-1-2-5-8-97"
-           sodipodi:role="line">@ <tspan
-   id="tspan4462-6-3-9-1-8-5"
-   style="font-size:9.0606575px;fill:#0c4674;fill-opacity:1">Allegro.PL</tspan></tspan></text>
+           sodipodi:role="line"><tspan
+             style="fill:#161616;fill-opacity:1"
+             id="tspan5851">@ </tspan><tspan
+             id="tspan4462-6-3-9-1-8-5"
+             style="font-size:9.06065749999999959px;fill:#082e4a;fill-opacity:1">Allegro.PL</tspan></tspan></text>
     </g>
     <g
        id="g5188-4">
@@ -2819,7 +2831,7 @@
          id="text4437-5-9-09-0-6-2"
          y="930.57581"
          x="415.64648"
-         style="font-size:9.0606575px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         style="font-size:9.06065749999999959px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#161616;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          xml:space="preserve"><tspan
            y="930.57581"
            x="415.64648"
@@ -2835,9 +2847,11 @@
            sodipodi:role="line"
            id="tspan4439-6-9-1-2-5-8-6-1"
            x="504.59595"
-           y="930.51648">@ <tspan
-   style="font-size:9.0606575px;fill:#0c4674;fill-opacity:1"
-   id="tspan4462-6-3-9-1-8-7-3">COI.Gov.PL</tspan></tspan></text>
+           y="930.51648"><tspan
+             style="fill:#161616;fill-opacity:1"
+             id="tspan5849">@ </tspan><tspan
+             style="font-size:9.06065749999999959px;fill:#082e4a;fill-opacity:1"
+             id="tspan4462-6-3-9-1-8-7-3">COI.Gov.PL</tspan></tspan></text>
     </g>
     <g
        id="g5258-7">
@@ -2872,7 +2886,7 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-size:9.0606575px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         style="font-size:9.06065749999999959px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#161616;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          x="339.06445"
          y="950.65393"
          id="text4437-5-9-09-0-6-6-10"
@@ -2893,12 +2907,12 @@
            id="tspan4439-6-9-1-2-5-8-6-7-1"
            sodipodi:role="line">@ <tspan
    id="tspan4462-6-3-9-1-8-7-5-86"
-   style="font-size:9.0606575px;fill:#0c4674;fill-opacity:1">SAMSUNG.PL</tspan></tspan></text>
+   style="font-size:9.06065749999999959px;fill:#082e4a;fill-opacity:1">SAMSUNG.PL</tspan></tspan></text>
     </g>
   </g>
   <text
      xml:space="preserve"
-     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0c4674;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0c426c;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
      x="288.74982"
      y="842.35864"
      id="text4858-2-1-4"
@@ -2906,7 +2920,7 @@
        sodipodi:role="line"
        x="288.74982"
        y="842.35864"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0c4674;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0c426c;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        id="tspan5170-8-3">Work &amp; Education Timeline</tspan></text>
   <text
      xml:space="preserve"
@@ -2963,7 +2977,7 @@
        id="text5583-2-8"
        y="51.190731"
        x="556.14899"
-       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0c4674;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#093455;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        xml:space="preserve"><tspan
          y="51.190731"
          x="556.14899"
@@ -3019,7 +3033,8 @@
          id="tspan5593-8-7-0"
          y="51.190731"
          x="556.14899"
-         sodipodi:role="line">maciej@chalapuk.pl</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#093455;fill-opacity:1">maciej@chalapuk.pl</tspan><tspan
          y="62.440731"
          x="556.14899"
          sodipodi:role="line"
@@ -3432,7 +3447,7 @@
      y="212.35876" />
   <text
      xml:space="preserve"
-     style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+     style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#222222;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
      x="288.74982"
      y="231.10876"
      id="text4934"
@@ -3451,7 +3466,7 @@
        y="258.60876">in between—applying (often newly acquired) theory in practice.</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Serif;-inkscape-font-specification:Droid Serif Bold"
+     style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3c3c3c;fill-opacity:1;stroke:none;font-family:Droid Serif;-inkscape-font-specification:Droid Serif Bold"
      x="247.49994"
      y="268.60876"
      id="text5024"
@@ -3474,7 +3489,7 @@
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0c4674;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">Maciej Chałapuk</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:aakar;-inkscape-font-specification:aakar Medium"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3c3c3c;fill-opacity:1;stroke:none;font-family:aakar;-inkscape-font-specification:aakar Medium"
      x="288.74982"
      y="171.23816"
      id="text3638-4-3"
@@ -3483,7 +3498,7 @@
        id="tspan3640-4-8"
        x="288.74982"
        y="171.23816"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">Polyglot Programmer, Technical Writer</tspan></text>
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#3c3c3c;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">Polyglot Programmer, Technical Writer</tspan></text>
   <image
      y="77.362183"
      x="597.75"
@@ -3621,14 +3636,15 @@
   <text
      sodipodi:linespacing="130%"
      id="text7753"
-     y="373.60876"
-     x="288.74982"
-     style="font-size:9px;font-style:normal;font-weight:normal;text-align:start;line-height:129.99999523%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#3e566a;fill-opacity:1;stroke:none;font-family:Sans"
+     y="373.61218"
+     x="288.75"
+     style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999522999999613%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#244054;fill-opacity:1;stroke:none;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono"
      xml:space="preserve"><tspan
-       y="373.60876"
-       x="288.74982"
+       y="373.61218"
+       x="288.75"
        sodipodi:role="line"
-       id="tspan7791">#ddd #tdd #polymer #angular #jooq</tspan></text>
+       id="tspan7791"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#244054;fill-opacity:1;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono">#polymer #angular #jooq #ddd</tspan></text>
   <g
      id="g4140"
      transform="translate(1284.7748,-526.3963)">
@@ -4481,10 +4497,10 @@
      id="text7314"
      y="309.85876"
      x="288.74982"
-     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0c4774;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0c3f64;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
      xml:space="preserve"><tspan
        id="tspan7316"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0c4774;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0c3f64;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        y="309.85876"
        x="288.74982"
        sodipodi:role="line">Selected Achievements</tspan></text>
@@ -4493,36 +4509,36 @@
      id="text3871-7"
      y="392.35876"
      x="288.74982"
-     style="font-size:9px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#212121;fill-opacity:1;stroke:none;font-family:Sans"
+     style="font-size:9px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2c2c2c;fill-opacity:1;stroke:none;font-family:Sans"
      xml:space="preserve"><tspan
        y="392.35876"
        x="288.74982"
        sodipodi:role="line"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;fill:#2c2c2c;fill-opacity:1"
        id="tspan7436"> * Recruited the team (4 devs),</tspan><tspan
        y="403.60876"
        x="288.74982"
        sodipodi:role="line"
        id="tspan3941-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"> * Documented high-level architecture,</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;fill:#2c2c2c;fill-opacity:1"> * Documented high-level architecture,</tspan><tspan
        y="414.85876"
        x="288.74982"
        sodipodi:role="line"
        id="tspan3943-8"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"> * Researched and selected technology,</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;fill:#2c2c2c;fill-opacity:1"> * Researched and selected technology,</tspan><tspan
        y="426.10876"
        x="288.74982"
        sodipodi:role="line"
        id="tspan3945-1"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"> * Conducted internal training on DDD,</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;fill:#2c2c2c;fill-opacity:1"> * Conducted internal training on DDD,</tspan><tspan
        y="437.35876"
        x="288.74982"
        sodipodi:role="line"
        id="tspan3949-3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"> * Performed code reviews.</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;fill:#2c2c2c;fill-opacity:1"> * Performed code reviews.</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#343434;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
      x="288.74982"
      y="362.35876"
      id="text7432"
@@ -4536,7 +4552,7 @@
      id="text7450"
      y="362.35876"
      x="517.49994"
-     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#343434;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
      xml:space="preserve"><tspan
        y="362.35876"
        x="517.49994"
@@ -4544,7 +4560,7 @@
        sodipodi:role="line">Monedo - Personal Finance Web App</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#212121;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+     style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2c2c2c;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
      x="517.49994"
      y="392.35876"
      id="text7466"
@@ -4574,7 +4590,7 @@
      id="text7584"
      y="591.1087"
      x="288.74982"
-     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#343434;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
      xml:space="preserve"><tspan
        y="591.1087"
        x="288.74982"
@@ -4585,36 +4601,36 @@
      id="text7588"
      y="621.1087"
      x="288.74982"
-     style="font-size:9px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#212121;fill-opacity:1;stroke:none;font-family:Sans"
+     style="font-size:9px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2c2c2c;fill-opacity:1;stroke:none;font-family:Sans"
      xml:space="preserve"><tspan
        id="tspan7598"
        y="621.1087"
        x="288.74982"
        sodipodi:role="line"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"> * Founded the project,</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;fill:#2c2c2c;fill-opacity:1"> * Founded the project,</tspan><tspan
        y="632.3587"
        x="288.74982"
        sodipodi:role="line"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;fill:#2c2c2c;fill-opacity:1"
        id="tspan7620"> * Designed the API (CSS and JavaScript),</tspan><tspan
        y="643.6087"
        x="288.74982"
        sodipodi:role="line"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;fill:#2c2c2c;fill-opacity:1"
        id="tspan7614"> * Coded the component,</tspan><tspan
        y="654.8587"
        x="288.74982"
        sodipodi:role="line"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;fill:#2c2c2c;fill-opacity:1"
        id="tspan7616"> * Implemented documentation generator,</tspan><tspan
        y="666.1087"
        x="288.74982"
        sodipodi:role="line"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;fill:#2c2c2c;fill-opacity:1"
        id="tspan7618"> * Wrote documentation.</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#343434;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
      x="517.49994"
      y="579.8587"
      id="text7622"
@@ -4625,39 +4641,39 @@
        y="579.8587">agMaps - Map Server JavaScript API</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:9px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#212121;fill-opacity:1;stroke:none;font-family:Sans"
+     style="font-size:9px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2c2c2c;fill-opacity:1;stroke:none;font-family:Sans"
      x="517.49994"
      y="609.8587"
      id="text7626"
      sodipodi:linespacing="125%"><tspan
        id="tspan7638"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;fill:#2c2c2c;fill-opacity:1"
        sodipodi:role="line"
        x="517.49994"
        y="609.8587"> * Implemented map controller,</tspan><tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;fill:#2c2c2c;fill-opacity:1"
        sodipodi:role="line"
        x="517.49994"
        y="621.1087"
        id="tspan7660"> * Covered map server restful services with JS API,</tspan><tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;fill:#2c2c2c;fill-opacity:1"
        sodipodi:role="line"
        x="517.49994"
        y="632.3587"
        id="tspan7662"> * Implemented custom Javadoc doclet,</tspan><tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;fill:#2c2c2c;fill-opacity:1"
        sodipodi:role="line"
        x="517.49994"
        y="643.6087"
        id="tspan7664"> * Documented the API,</tspan><tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;fill:#2c2c2c;fill-opacity:1"
        sodipodi:role="line"
        x="517.49994"
        y="654.8587"
        id="tspan7666"> * Wrote a tutorial for each major functionality.</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#343434;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
      x="288.74982"
      y="699.8587"
      id="text7668"
@@ -4668,27 +4684,27 @@
        y="699.8587">Muice - Java Dependency Injection Lib</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:9px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#212121;fill-opacity:1;stroke:none;font-family:Sans"
+     style="font-size:9px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2c2c2c;fill-opacity:1;stroke:none;font-family:Sans"
      x="288.74982"
      y="729.8587"
      id="text7672"
      sodipodi:linespacing="125%"><tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;fill:#2c2c2c;fill-opacity:1"
        sodipodi:role="line"
        x="288.74982"
        y="729.8587"
        id="tspan7674"> * Founded the project,</tspan><tspan
        id="tspan7682"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;fill:#2c2c2c;fill-opacity:1"
        sodipodi:role="line"
        x="288.74982"
        y="741.1087"> * Designed the API (client and plugin),</tspan><tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;fill:#2c2c2c;fill-opacity:1"
        sodipodi:role="line"
        x="288.74982"
        y="752.3587"
        id="tspan7711"> * Implemented the library,</tspan><tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;fill:#2c2c2c;fill-opacity:1"
        sodipodi:role="line"
        x="288.74982"
        y="763.6087"
@@ -4698,7 +4714,7 @@
      id="text7715"
      y="688.6087"
      x="517.49994"
-     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#343434;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
      xml:space="preserve"><tspan
        y="688.6087"
        x="517.49994"
@@ -4709,47 +4725,47 @@
      id="text7719"
      y="718.6087"
      x="517.49994"
-     style="font-size:9px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#212121;fill-opacity:1;stroke:none;font-family:Sans"
+     style="font-size:9px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2c2c2c;fill-opacity:1;stroke:none;font-family:Sans"
      xml:space="preserve"><tspan
        id="tspan7729"
        y="718.6087"
        x="517.49994"
        sodipodi:role="line"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"> * Co-Founded the project,</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;fill:#2c2c2c;fill-opacity:1"> * Co-Founded the project,</tspan><tspan
        y="729.8587"
        x="517.49994"
        sodipodi:role="line"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;fill:#2c2c2c;fill-opacity:1"
        id="tspan7751"> * Implemented server status monitoring deamon,</tspan><tspan
        y="741.1087"
        x="517.49994"
        sodipodi:role="line"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;fill:#2c2c2c;fill-opacity:1"
        id="tspan7745"> * Wrote game instalation scripts,</tspan><tspan
        y="752.3587"
        x="517.49994"
        sodipodi:role="line"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;fill:#2c2c2c;fill-opacity:1"
        id="tspan7747"> * Implemented gameserver management panel,</tspan><tspan
        y="763.6087"
        x="517.49994"
        sodipodi:role="line"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;fill:#2c2c2c;fill-opacity:1"
        id="tspan7749"> * Coded front-end for a forum website.</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:9px;font-style:normal;font-weight:normal;text-align:start;line-height:129.99999523%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#3e566a;fill-opacity:1;stroke:none;font-family:Sans"
-     x="517.49994"
-     y="373.60876"
+     style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999522999999613%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#244054;fill-opacity:1;stroke:none;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono"
+     x="517.5"
+     y="373.61218"
      id="text8205"
      sodipodi:linespacing="130%"><tspan
        id="tspan8207"
        sodipodi:role="line"
-       x="517.49994"
-       y="373.60876">#tdd #polymer #angular #ror</tspan></text>
+       x="517.5"
+       y="373.61218">#rubyonrails #angular #polymer #sass</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#343434;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
      x="517.49994"
      y="471.10876"
      id="text7432-3"
@@ -4760,53 +4776,53 @@
        y="471.10876">Joyn - Telecom Mobile Client</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:9px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#212121;fill-opacity:1;stroke:none;font-family:Sans"
+     style="font-size:9px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2c2c2c;fill-opacity:1;stroke:none;font-family:Sans"
      x="517.49994"
      y="501.10876"
      id="text7506"
      sodipodi:linespacing="125%"><tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;fill:#2c2c2c;fill-opacity:1"
        id="tspan7516"
        sodipodi:role="line"
        x="517.49994"
        y="501.10876"> * Designed threading model,</tspan><tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;fill:#2c2c2c;fill-opacity:1"
        sodipodi:role="line"
        x="517.49994"
        y="512.35876"
        id="tspan7532"> * Implemented threading framework,</tspan><tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;fill:#2c2c2c;fill-opacity:1"
        sodipodi:role="line"
        x="517.49994"
        y="523.60876"
        id="tspan7534"> * Prototyped multi-device automated test runner,</tspan><tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;fill:#2c2c2c;fill-opacity:1"
        sodipodi:role="line"
        x="517.49994"
        y="534.85876"
        id="tspan7536"> * Conducted internal trainings on unit testing,</tspan><tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;fill:#2c2c2c;fill-opacity:1"
        sodipodi:role="line"
        x="517.49994"
        y="546.10876"
        id="tspan7538"> * Technically supported recruitment process.</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:9px;font-style:normal;font-weight:normal;text-align:start;line-height:129.99999523%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#3e566a;fill-opacity:1;stroke:none;font-family:Sans"
-     x="517.49994"
-     y="482.35876"
+     style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999522999999613%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#244054;fill-opacity:1;stroke:none;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono"
+     x="517.50012"
+     y="482.36218"
      id="text8209"
      sodipodi:linespacing="130%"><tspan
        id="tspan8211"
        sodipodi:role="line"
-       x="517.49994"
-       y="482.35876">#android #guice #jni #make</tspan></text>
+       x="517.50012"
+       y="482.36218">#android #guice #jni #make</tspan></text>
   <text
      sodipodi:linespacing="125%"
      id="text7540"
      y="471.10876"
      x="288.74982"
-     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#343434;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
      xml:space="preserve"><tspan
        y="471.10876"
        x="288.74982"
@@ -4817,93 +4833,93 @@
      id="text7548"
      y="501.10876"
      x="288.74982"
-     style="font-size:9px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#212121;fill-opacity:1;stroke:none;font-family:Sans"
+     style="font-size:9px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2c2c2c;fill-opacity:1;stroke:none;font-family:Sans"
      xml:space="preserve"><tspan
        id="tspan7558"
        y="501.10876"
        x="288.74982"
        sodipodi:role="line"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"> * Supplemented docs of high-level architecture,</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;fill:#2c2c2c;fill-opacity:1"> * Supplemented docs of high-level architecture,</tspan><tspan
        y="512.35876"
        x="288.74982"
        sodipodi:role="line"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;fill:#2c2c2c;fill-opacity:1"
        id="tspan7574"> * Researched SmartCard technology,</tspan><tspan
        y="523.60876"
        x="288.74982"
        sodipodi:role="line"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;fill:#2c2c2c;fill-opacity:1"
        id="tspan7576"> * Co-implemented ID card registry module,</tspan><tspan
        y="534.85876"
        x="288.74982"
        sodipodi:role="line"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;fill:#2c2c2c;fill-opacity:1"
        id="tspan7578"> * Coded deployment scripts.</tspan><tspan
        y="546.10876"
        x="288.74982"
        sodipodi:role="line"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;fill:#2c2c2c;fill-opacity:1"
        id="tspan7580"> * Improved used testing techniques,</tspan><tspan
        y="557.35876"
        x="288.74982"
        sodipodi:role="line"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;fill:#2c2c2c;fill-opacity:1"
        id="tspan7582"> * Conducted a training on dependency injection.</tspan></text>
   <text
      sodipodi:linespacing="130%"
      id="text8213"
-     y="482.35876"
-     x="288.74982"
-     style="font-size:9px;font-style:normal;font-weight:normal;text-align:start;line-height:129.99999523%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#3e566a;fill-opacity:1;stroke:none;font-family:Sans"
+     y="482.36218"
+     x="288.75"
+     style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999522999999613%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#244054;fill-opacity:1;stroke:none;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono"
      xml:space="preserve"><tspan
-       y="482.35876"
-       x="288.74982"
+       y="482.36218"
+       x="288.75"
        sodipodi:role="line"
-       id="tspan8215">#jquery #ejb #jboss #oracle</tspan></text>
+       id="tspan8215">#oracle #jquery #jboss #ejb</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:9px;font-style:normal;font-weight:normal;text-align:start;line-height:129.99999523%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#3e566a;fill-opacity:1;stroke:none;font-family:Sans"
-     x="288.74982"
-     y="602.3587"
+     style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999522999999613%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#244054;fill-opacity:1;stroke:none;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono"
+     x="288.75"
+     y="602.36212"
      id="text8329"
      sodipodi:linespacing="130%"><tspan
        id="tspan8331"
        sodipodi:role="line"
-       x="288.74982"
-       y="602.3587">#opensource #sass #gulp #rwd</tspan></text>
+       x="288.75"
+       y="602.36212">#opensource #sass #gulp #rwd</tspan></text>
   <text
      sodipodi:linespacing="130%"
      id="text8333"
-     y="591.1087"
-     x="517.49994"
-     style="font-size:9px;font-style:normal;font-weight:normal;text-align:start;line-height:129.99999523%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#3e566a;fill-opacity:1;stroke:none;font-family:Sans"
+     y="591.11212"
+     x="517.50012"
+     style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999522999999613%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#244054;fill-opacity:1;stroke:none;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono"
      xml:space="preserve"><tspan
-       y="591.1087"
-       x="517.49994"
+       y="591.11212"
+       x="517.50012"
        sodipodi:role="line"
-       id="tspan8335">#ie6 #gwt #jni #svg #rest #javadoc</tspan></text>
+       id="tspan8335">#javadoc #gwt #jni #ie6</tspan></text>
   <text
      sodipodi:linespacing="130%"
      id="text8339"
-     y="711.1087"
-     x="288.74982"
-     style="font-size:9px;font-style:normal;font-weight:normal;text-align:start;line-height:129.99999523%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#3e566a;fill-opacity:1;stroke:none;font-family:Sans"
+     y="711.11212"
+     x="288.75"
+     style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999522999999613%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#244054;fill-opacity:1;stroke:none;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono"
      xml:space="preserve"><tspan
-       y="711.1087"
-       x="288.74982"
+       y="711.11212"
+       x="288.75"
        sodipodi:role="line"
-       id="tspan8341">#opensource #java #reflection</tspan></text>
+       id="tspan8341">#opensource #annotations #reflection</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:9px;font-style:normal;font-weight:normal;text-align:start;line-height:129.99999523%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#3e566a;fill-opacity:1;stroke:none;font-family:Sans"
-     x="517.49994"
-     y="699.8587"
+     style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999522999999613%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#244054;fill-opacity:1;stroke:none;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono"
+     x="517.50012"
+     y="699.86212"
      id="text8343"
      sodipodi:linespacing="130%"><tspan
        id="tspan8345"
        sodipodi:role="line"
-       x="517.49994"
-       y="699.8587">#c #php #bash #make #mybb</tspan></text>
+       x="517.50012"
+       y="699.86212">#make #php #bash #c</tspan></text>
   <g
      id="g9867"
      transform="translate(-1.5385017e-4,-0.00351848)">
